@@ -1,0 +1,9 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valores nulos,Ejemplo de dato
+Unidad Académica,texto,,,Unidad donde se imparte el programa,,,,San Luis R.C.
+Programa Educativo,texto,,,Programa de estudios,,,,Ing.  en Automatización de Procesos
+Evaluados,numero,,,Cantidad de alumnos evaluados,,,,
+Menos de 7,numero,,,Cantidad de alumnos que pertenecen al rango de calificaciones,,,,
+de 7 hasta 7.9,numero,,,Cantidad de alumnos que pertenecen al rango de calificaciones,,,,
+de 8 hasta 8.9,numero,,,Cantidad de alumnos que pertenecen al rango de calificaciones,,,,
+de 9 hasta 10,numero,,,Cantidad de alumnos que pertenecen al rango de calificaciones,,,,
+Promedio Global,numero decimal,,,Promedio general del programa educativo,,,,

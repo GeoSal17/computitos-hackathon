@@ -1,0 +1,12 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+No.,numero,,,Identificador del evento,,,,
+Nombre del evento o actividad,texto,,,Nombre del evento,,,,Google classroom para docentes
+Fechas (Día-Periodo),texto,,,Periodo en el que se imparte,,,,07 de marzo al 04 de abril 2022
+Número de participantes,numero,,,Cantidad (capacidad) del evento,,,,
+Nivel educativo,texto,,,Nivel educativo destino del evento,,,,Docentes de Educación Básica
+Duración (Días-Horas),texto,,,Duración del evento,,,,
+Modalidad (Línea o presencial),texto,,,Modalidad en que se impartira el evento,,,,A distancia (con apoyo de TIC)
+Sede,texto,,,Sede del evento,,,,Presencial
+Tipo de oferta,texto,,,Tipo del evento,,,,Curso
+Tipo de financiamiento,texto,,,Financiamiento del Evento,,,,Dirección General de Innovación y Desarrollo Tecnológico-Microsoft
+Nombre de quienes Impartieron el Curso,texto,,,Encargados de empartir del evento,,,,Coordinación de Desarrollo Educativo

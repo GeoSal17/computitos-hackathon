@@ -1,0 +1,7 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+municipio,Numérico entero,NN,,Municipio de registro,Si,,,
+año,Numérico entero,NNNN,,Año de registro,Si,,,
+mes,Numérico entero,NN,,Mes de registro,Si,,,
+hombres,Numérico entero,NN,,Nacimientos del sexo Masculino,Si,,,
+mujeres,Numérico entero,NN,,Nacimientos del sexo Femenino,Si,,,
+total,Numérico entero,NNN,,Total de nacimientos,Si,,,

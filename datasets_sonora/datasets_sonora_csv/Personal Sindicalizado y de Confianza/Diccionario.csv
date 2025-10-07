@@ -1,0 +1,7 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+Tipo de integrante del sujeto obligado,Texto,,,Si el empleado es Sindicalizado o de Confianza,,,Sin valores faltantes,Personal de confianza
+Clave o nivel del puesto,Texto,,,Nivel del tabulador de sueldo referente al cargo,,,Sin valores faltantes,14I
+Denominación o descripción del puesto,Texto,,,Nombre del puesto del servidor público,,,Sin valores faltantes,OFICIAL MAYOR
+Denominación del cargo,Texto,,,Puesto a desempeñar,,,Sin valores faltantes,OFICIAL MAYOR
+Área de adscripción,Texto,,,Área administrativa a la que pertenece,,,Sin valores faltantes,DESPACHO DE LA OFICIALIA MAYOR
+Sexo,Texto,,,Sexo,,,Sin valores faltantes,Masculino

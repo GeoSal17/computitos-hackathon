@@ -1,0 +1,8 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+CONSECUTIVO,Numerico entero,,,Numero de la entrada,Si,,,8
+MUNICIPIO,Texto,,,Nombre del municipio donde se entregaron los apoyos,Si,,,Bacadéhuachi
+No. Personas Atendidas,Numerico entero,,,Numero de personas que se atendieron,Si,,,400
+Cantidad de apoyos otorgados,Numerico entero,,,Unidad de apoyos que fueron entregados,Si,,,500
+Monto,Numerico flotante,,,Monto,Si,,,42800
+"Comentarios
+/Observaciones",Texto,,,Diferentes vienes los cuales fueron otorgados,Si,,,"DESPENSAS, COBERTORES, DULCES, JUGUETES "

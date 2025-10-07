@@ -1,0 +1,71 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+Unidad Académica,Texto,,,Nombre del Municipio donde se encuentra la Unidad Académica,,,,Hermosillo
+Plan de Estudio,Numérico entero,,,Clave del plan de estudio,,,,14
+Programa educativo,Texto,,,Nombre del programa educativo,,,,Ing. Ambiental
+Tipo de programa académico,Texto,,,Tipo de programa educativo,,,,Licenciatura
+Tipo de periodo,Texto,,,Tipo de periodo del programa educativo,,,,Semestral
+Modalidad,Texto,,,Modalidad del programa educativo,,,,Escolarizado
+Alumno,Numérico entero,,,Numero del alumno,,,,2
+Inscrito ciclo  escolar actual,Alfanumérico,,,Pendiente de especificar,,,,222 (Reing)
+Grupos asignaturas inscrito ciclo escolar actual,Alfanumérico,,,Conjunto de grupos a los cuales el alumno se inscribio,,,," AMB04C1-001, AMB06C1-001, FIN15C1-001, MAT29A2-004, SSO01C1-008, TER14C1-001"
+Fecha inscripción ciclo escolar actual,Fecha,dd/mm/aaaa,,Fecha en la que el alumno se inscribio al ciclo escolar actual,,,,04/08/2022
+Ciclo escolar actual motivo no inscrito,Texto,,,Pendiente de especificar,,,,
+Inscritos ciclo escolar señalado,Alfanumérico,,,Pendiente de especificar,,,,222 (Reing)
+Grupos asignaturas inscrito en ciclo escolar  señalado,Alfanumérico,,,Pendiente de especificar,,,," AMB04C1-001, AMB06C1-001, FIN15C1-001, MAT29A2-004, SSO01C1-008, TER14C1-001"
+Fecha inscripción en ciclo escolar  señalado,Fecha,,,Pendiente de especificar,,,,04/08/2022
+Clave de Formación Académica,Numérico entero,,,Clave de formacion academica,,,,07
+Campo de Formación Académica,Texto,,,Campo al cual pertenece la formacion academica,,,,"Ingeniería, manufactura y construcción                                                                                                                                                                  "
+Se realizo equivalencia en el ciclo actual,Texto,,,Pendiente de especificar,,,,
+Nacionalidad,Texto,,,Nacionalidad del alumno,,,,          
+Estado,Texto,,,Estado donde recide el alumno,,,,SONORA                         
+Municipio,Texto,,,Municipio donde el alumno,,,,HERMOSILLO                                                                                          
+Sexo ,Texto,,,Sexo del alumno,,,,Masculino
+Edad,Numérico entero,,,Edad del alumno,,,,21
+Discapacidad_Tipo,Texto,,,Tipo de discapacidad que posee el alumno de tenerla,,,,
+Estado civil,Texto,,,Estado civil del alumno,,,,SOLTERO (A)
+Estimulo Ciclo Actual,Texto,,,Pendiente de especificar,,,,
+Grupo Indig.(Pertenece),Texto,,,Pendiente de especificar,,,,
+Grupo Indig. (Habla),Texto,,,Pendiente de especificar,,,,
+Grupo Indig. (Vive en Comunidad),Texto,,,Pendiente de especificar,,,,
+Grupo Indig. (Padres),Texto,,,Pendiente de especificar,,,,
+Lugar de nacimiento,Texto,,,Lugar de nacimiento del alumno,,,,CD. OBREGON                                                                                         
+Bachillerato,Texto,,,Nombre de la institucion donde cursó el Bachillerato el alumno,,,,GRIMAC                                                                                                                                                          
+ Promedio de bachillerato,Numérico flotante,,,Promedio final al salir del bachillerato,,,,0.00
+Estado Bachillerato,Texto,,,Estado en el cual cursó el bachillerato,,,,SONORA                         
+Ciudad Bachillerato,Texto,,,Ciudad en el cual cursó el bachillerato,,,,HUATABAMPO                                                                                          
+Área Bachillerato,Texto,,,Pendiente de especificar,,,,                              
+Egreso Bachillerato,Numérico entero,,,Año en el cual egreso del bachillerato,,,,
+Periodo escolar de ingreso,Numérico entero,,,Clave del periodo escolar cuando ingreso,,,,201
+fecha de reinscripción,Fecha,dd/mm/aaaa,,Fecha en la que se reinscribió el alumno,,,,04/08/2022
+Créditos cursados,Numérico entero,,,Total de creditos cursoados del alumno,,,,173
+Nuevo Ingreso/Reingreso,Texto,,,Indicador si es nuevo ingreso o reingreso,,,,Reingreso
+Semestres cursados incluye ciclo actual,Numérico entero,,,Numero de semestres cursados por el alumno contando el ciclo actual,,,,6
+Semestres cursados sin ciclo actual,Numérico entero,,,Numero de semestres cursados por el alumno sin contar el ciclo actual,,,,5
+Ultimo ciclo  escolar cursado,Numérico entero,,,Clave del ultimo ciclo escolar cursado,,,,222
+Promedio ultimo ciclo cursado (Solo asig. aprobadas),Numérico flotante,,,Promedio del ultimo ciclo que cursó el alumno solo en las asignaturas que aprobó el alumno,,,,0
+Promedio ultimo ciclo cursado(Todas las asignaturas),Numérico flotante,,,Promedio del ultimo ciclo que cursó el alumno en todas las asignaturas,,,,0
+Num. asignaturas reprobadas en ultimo ciclo cursado,Numérico entero,,,Numero de asignaturas que reprobo el ultimo ciclo que cursó el alumno,,,,0
+Promedio anterior al ciclo inscrito (Solo asig. aprobadas),Numérico flotante,,,Pendiente de especificar,,,,8.2
+Promedio anterior al ciclo inscrito (Todas las asignaturas),Numérico flotante,,,Pendiente de especificar,,,,8.2
+Num. asignaturas reprobadas ciclo anterior al ciclo inscrito,Numérico entero,,,Pendiente de especificar,,,,0
+Promedio general (Solo asig. aprobadas),Numérico flotante,,,Promedio general de solo las asignaturas aprobadas,,,,8.85
+Promedio general (Todas las asignaturas),Numérico flotante,,,Promedio general de todas las asignaturas,,,,8.75
+Promedio periodo escolar inscrito (Solo asig. aprobadas),Numérico flotante,,,Pendiente de especificar,,,,0
+Promedio periodo escolar inscrito (todas las asignaturas),Numérico flotante,,,Pendiente de especificar,,,,0
+Inscrito ciclo actual (solo Serv.Soc. y Pract.Prof.),Numérico entero,,,Pendiente de especificar,,,,   
+Alumnos regulares e irregulares,Texto,,,Indicador de si es regular o irregular,,,,Irregular
+Total de créditos del plan de estudio,Numérico entero,,,Total de creditos del plan de estudio que cursa el alumno,,,,320
+Alumno activo,Texto,,,Indicador de si el alumno está activo o no,,,,ACTIVO
+Periodo escolar de egreso,Numérico entero,,,Pendiente de especificar,,,,
+Fecha de baja,Fecha,,,Fecha en la que el alumno se dio de baja,,,,
+Periodo de la baja,Numérico entero,,,Clave del periodo en el cual el alumno se dio de baja,,,,   
+Tipo de baja,Texto,,,Tipo de baja,,,,                              
+Cambio de Unidad Académica,Texto,,,Pendiente de especificar,,,,
+Alternativa de titulación de no exigibilidad,Texto,,,Pendiente de especificar,,,,
+Fecha de alternativa de titulación de no exigibilidad,Fecha,dd/mm/aaaa,,Pendiente de especificar,,,,
+Alternativa de titulación de examen profesional,Texto,,,Pendiente de especificar,,,,
+Fecha de alternativa de titulación de examen prof.,Fecha,dd/mm/aaaa,,Pendiente de especificar,,,,
+Fecha de titulación del título profesional,Fecha,dd/mm/aaaa,,Pendiente de especificar,,,,
+Fecha de impresión del título profesional,Fecha,dd/mm/aaaa,,Pendiente de especificar,,,,
+Fecha de la convalidación,Fecha,dd/mm/aaaa,,Pendiente de especificar,,,,
+Fecha de la equivalencia,Fecha,dd/mm/aaaa,,Pendiente de especificar,,,,30/11/2021

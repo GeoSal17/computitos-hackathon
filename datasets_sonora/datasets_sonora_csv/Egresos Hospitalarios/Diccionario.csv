@@ -1,0 +1,16 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+CLUES,Alfanumerico,CCCCCnnnnnn,,Clave de la Unidad,Si,,,SRSSA000026
+Nombre_Establecimiento,Texto,,,Nombre del establecimiento,Si,,,UNIDAD DE DESINTOXICACION AGUA PRIETA
+JS_Cve,Numerico entero,nn,,Clave de Jurisdiccion,Si,,,03
+JS_Nombre,Texto,,,Nombre de Jurisdiccion,Si,,,SANTA ANA
+Mun_Clave,Numerico entero,nnn,,Clave del Municipio,Si,,,002
+Mun_Nombre,Texto,,,Nombre del Municipio,Si,,,AGUA PRIETA
+Loc_Clave,Numerico entero,nnnn,,Clave de la Localidad,Si,,,0001
+Loc_Nombre,Texto,,,Nombre de la Localidad,Si,,,AGUA PRIETA
+Sexo,Texto,,,Sexo,Si,,,Hombre
+Edad,Categorico,"[<1,1,2-4,5-9,10-14,15-19,20-29,30-49,50-59,60 y mas,  NE]",,Grupo de edad,Si,,,18
+Mes,Numerico entero,nn,,Mes,Si,,,5
+CIE10_Cve,Alfanumerico,CnnX,,Clave CIE,Si,,,F122
+CIE10_Descrip,Texto,,,Descripcion de diagnostico ,Si,,,"TRASTORNOS MENTALES Y DEL COMPORTAMIENTO DEBIDOS AL USO DE CANNABINOIDES, SÍNDROME DE DEPENDENCIA"
+Año,Numerico entero,nnnn,,Año,Si,,,2018
+Total_Egresos,Numerico entero,,,Total de urgencias atendidas,Si,,,2

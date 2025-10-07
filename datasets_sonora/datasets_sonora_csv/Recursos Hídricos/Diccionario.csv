@@ -1,0 +1,4 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligatoriedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+Clave,Texto,CCCCC,,Tiene la información sobre la clave que identifica a la presa.,,,,
+Fecha,Fecha,AAAA/MM/DD,,Fecha del registro.,,,,
+Almacenamiento (hmÂ3),Numérico,Float,Hectómetros cúbicos,Tiene la información sobre el nivel de ocupación (almacenamiento) de la presa.,,,,

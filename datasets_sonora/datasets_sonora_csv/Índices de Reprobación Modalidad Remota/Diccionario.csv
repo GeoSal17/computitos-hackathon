@@ -1,0 +1,13 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+PLAN EDUCATIVO,Texto,,,Nombre del plan educativo,Si,,,INGENIERIA EN SISTEMAS COMPUTACIONALES
+MATERIA,Texto,,,Nombre de la materia,Si,,,SIMULACION
+GRUPO,Numerico entero,nnn,,Clave del grupo,Si,,,711
+TOTAL ALUMNOS,Numerico entero,,,Total de alumnos en el grupo,No,,Vacio,7
+INDICE DE REPROBACION 4TA,Numerico flotante,,,Indice de reprobacion en el periodo,No,,Vacio,9
+INDICE DE REPROBACION 8VA,Numerico flotante,,,Indice de reprobacion en el periodo,No,,Vacio,48.57
+INDICE DE REPROBACION 12VA ,Numerico flotante,,,Indice de reprobacion en el periodo,No,,Vacio,37.14
+INDICE DE REPROBACION 16VA ,Numerico flotante,,,Indice de reprobacion en el periodo,No,,Vacio,37.14
+PROMEDIO DE ASIGNATURA 4TA,Numerico flotante,,,Promedio de reprobacion en el periodo,No,,Vacio,48
+PROMEDIO DE ASIGNATURA 8VA,Numerico flotante,,,Promedio de reprobacion en el periodo,No,,Vacio,50
+PROMEDIO DE ASIGNATURA 12VA,Numerico flotante,,,Promedio de reprobacion en el periodo,No,,Vacio,59.14
+PROMEDIO DE ASIGNATURA 16VA,Numerico flotante,,,Promedio de reprobacion en el periodo,No,,Vacio,59.142857

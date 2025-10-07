@@ -1,0 +1,7 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+Programa Educativo,Texto,,,Nombre del programa educativo,Si,,,Lic. Criminología 
+San Luis R.C.,Numerico entero,,,Número de estudiantes egresados en San Luis R.C.,No,,Vacio,34
+Hermosillo,Numerico entero,,,Número de estudiantes egresados en Hermosillo,No,,Vacio,46
+Navojoa,Numerico entero,,,Número de estudiantes egresados en Navojoa,No,,Vacio,26
+Magdalena,Numerico entero,,,Número de estudiantes egresados en Magdalena,No,,Vacio,3
+Benito Juárez,Numerico entero,,,Número de estudiantes egresados en Benito Juárez,No,,Vacio,16

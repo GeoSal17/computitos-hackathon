@@ -1,0 +1,7 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+Programa Educativo,Texto,,,Nombre del programa educativo,Si,,,Lic. En Administración de Empresas
+San Luis R.C.,Numerico entero,,,Número de estudiantes titulados en San Luis R.C.,No,,Vacio,75
+Hermosillo,Numerico entero,,,Número de estudiantes titulados en Hermosillo,No,,Vacio,120
+Navojoa,Numerico entero,,,Número de estudiantes titulados en Navojoa,No,,Vacio,27
+Magdalena,Numerico entero,,,Número de estudiantes titulados en Magdalena,No,,Vacio,21
+Benito Juárez,Numerico entero,,,Número de estudiantes titulados en Benito Juárez,No,,Vacio,20

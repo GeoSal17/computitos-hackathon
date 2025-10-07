@@ -1,0 +1,11 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+ID BENEFICIARIO ,Numerico entero,,,Numero de entrada,Si,,,11
+FECHA ,Fecha,dd/mm/AAAA,,Fecha en la que se otorgo el beneficio,Si,,,5/1/2020
+GÉNERO,Texto,,,Genero del beneficiado,Si,,,Femenino
+MUNICIPIO,Texto,,,Municipio,Si,,,CAJEME
+NIVEL ,Texto,,,Nivel educativo del beneficiado,Si,,,Secundaria
+ESCUELA ,Texto,,,Escuela del beneficiado,Si,,,"ESC. SECUNDARIA VICENTE MONROY MENDOZA, CIUDAD OBREGON"
+CARRERA ,Texto,,,Carrera del beneficiado,Si,,,Secundaria
+PROGRAMA ,Texto,,,Programa que promueve el beneficio,Si,,,ESTÍMULOS EDUCATIVOS
+ESTATUS DE LA BECA O ESTIMULO EDUCATIVO,Texto,,,Vigencia de la Beca,Si,,,No Vigente
+IMPORTE ,Numero entero,,pesos,Importe total del beneficio,Si,,,1000

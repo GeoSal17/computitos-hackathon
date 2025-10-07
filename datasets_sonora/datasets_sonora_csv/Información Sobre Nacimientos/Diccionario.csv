@@ -1,0 +1,107 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+FECHANACIMIENTOMADRE,Fecha,mm/dd/aaaa,,Fecha de nacimiento de la madre,,,,11/9/1999
+ENTIDADNACIMIENTO,Numérico entero,,,Clave de la entidad de nacimiento de la madre,,,,26
+ENTIDADNACIMIENTOD,Texto,,,Nombre de la entidad de nacimiento de la madre,,,,SONORA
+NACIOEXTRANJERO,Numérico entero,,,Indicador de si es extrangera,,,,2
+NACIOEXTRANJEROD,Texto,,,Indicador textual de si es extrangera,,,,NO
+MUNICIPIONACIMIENTO,Numérico entero,,,Clave del municipio donde nacio la madre,,,,55
+MUNICIPIONACIMIENTOD,Texto,,,Nombre del municipio donde nacio la madre,,,,SAN LUIS RÍO COLORADO
+EDAD,Numérico entero,,,Edad de la madre,,,,22
+ESTADOCONYUGAL,Numérico entero,,,Indicador del estado conyugal de la madre,,,,1
+ESTADOCONYUGALD,Texto,,,Indicador textual del estado conyugal de la madre,,,,SOLTERO(A)
+SECONSIDERAINDIGENA,Numérico entero,,,Indicador de si la madre se considera indigena,,,,2
+SECONSIDERAINDIGENAD,Texto,,,Indicador textual de si la madre se considera indigena,,,,NO
+HABLALENGUAINDIGENA,Numérico entero,,,Indicador de si la madre habla lengua indigena,,,,2
+HABLALENGUAINDIGENAD,Texto,,,Indicador textual de si la madre habla lengua indigena,,,,NO
+ENTIDADRESIDENCIA,Numérico entero,,,Clave de la entidad donde recide la madre,,,,26
+ENTIDADRESIDENCIAD,Texto,,,Nombre de la entidad donde recide la madre,,,,SONORA
+RESIDEEXTRANJERO,Numérico entero,,,Indicador de si la madre es recidente en el extranjero,,,,2
+RESIDEEXTRANJEROD,Texto,,,Indicador textual de si la madre es residente extranjera,,,,NO
+MUNICIPIORESIDENCIA,Numérico entero,,,Clave del municipio donde recide la madre,,,,55
+MUNICIPIORESIDENCIAD,Texto,,,Nombre del municipio donde recide la madre,,,,SAN LUIS RÍO COLORADO
+LOCALIDADRESIDENCIA,Numérico entero,,,Clave del localidad donde recide la madre,,,,1
+LOCALIDADRESIDENCIAD,Texto,,,Nombre del localidad donde recide la madre,,,,SAN LUIS RIO COLORADO
+NUMEROEMBARAZOS,Numérico entero,,,Numero de embarazos totales que ha tenido la madre,,,,1
+HIJOSNACIDOSMUERTOS,Numérico entero,,,Numero de hijos nacidos muertos,,,,0
+HIJOSNACIDOSVIVOS,Numérico entero,,,Numero de hijos nacidos vivos,,,,1
+HIJOSSOBREVIVIENTES,Numérico entero,,,Numero de hijos sobrevivientes,,,,1
+CONDICIONHIJOANTERIOR,Numérico entero,,,Indicador de la condicion del hijo anterior,,,,3
+CONDICIONHIJOANTERIORD,Texto,,,Indicador textual de la condicion del hijo anterior,,,,NO HA TENIDO OTROS HIJOS
+VIVEHIJOANTERIOR,Numérico entero,,,Indicador de si el hijo anterior todavia vive,,,,8
+VIVEHIJOANTERIORD,Texto,,,Indicador textual de si el hijo anterior todavia vive,,,,NO APLICA
+ORDENNACIMIENTO,Numérico entero,,,Pendiente de especificar,,,,1
+ATENCIONPRENATAL,Numérico entero,,,Pendiente de especificar,,,,1
+ATENCIONPRENATALD,Texto,,,Pendiente de especificar,,,,SI
+TRIMESTREPRIMERCONSULTA,Numérico entero,,,Pendiente de especificar,,,,1
+TRIMESTREPRIMERCONSULTAD,Texto,,,Pendiente de especificar,,,,PRIMER TRIMESTRE
+TOTALCONSULTAS,Numérico entero,,,Total de consultas,,,,15
+SOBREVIVIOPARTO,Numérico entero,,,Pendiente de especificar,,,,1
+SOBREVIVIOPARTOD,Texto,,,Pendiente de especificar,,,,SI
+AFILIACION,Numérico entero,,,Pendiente de especificar,,,,1
+AFILIACIOND,Texto,,,Pendiente de especificar,,,,NINGUNA
+ESCOLARIDAD,Numérico entero,,,Indicador de escolaridad de la madre,,,,82
+ESCOLARIDADD,Texto,,,Indicador textual de la escolaridad de la madre,,,,LICENCIATURA O PROFESIONAL INCOMPLETO
+INTERRUMPIOESTUDIOS,Numérico entero,,,Pendiente de especificar,,,,2
+INTERRUMPIOESTUDIOSD,Texto,,,Pendiente de especificar,,,,NO
+CLAVEOCUPACIONHABITUAL,Numérico entero,,,Pendiente de especificar,,,,2
+CLAVEOCUPACIONHABITUALD,Texto,,,Pendiente de especificar,,,,"NO REMUNERADO, AMA DE CASA"
+TRABAJAACTUALMENTE,Numérico entero,,,Indicador sobre el trabajo actual de la madre,,,,2
+TRABAJAACTUALMENTED,Texto,,,Indicador textual sobre el trabajo actual de la madre,,,,NO
+EDADPADRE,Numérico entero,,,Edad del padre,,,,99
+FECHANACIMIENTO,Fecha,mm/dd/aaaa,,Fecha de nacimiento,,,,1/8/2022
+HORANACIMIENTO,Hora,hh:mm:aa AM/PM,,Hora de nacimiento,,,,1:17:00 PM
+SEXO,Numérico entero,,,Indicador del sexo del nacido,,,,1
+SEXOD,Texto,,,Sexo del nacido,,,,HOMBRE
+EDADGESTACIONAL,Numérico entero,,,Edad gestacional del nacido,,,,38
+TALLA,Numérico entero,,,Talla del nacido,,,,47
+PESO,Numérico entero,,,Peso del nacido,,,,2480
+APGAR,Numérico entero,,,Pendiente de especificar,,,,9
+SILVERMAN,Numérico entero,,,Pendiente de especificar,,,,0
+TAMIZAUDITIVO,Numérico entero,,,Pendiente de especificar,,,,2
+TAMIZAUDITIVOD,Texto,,,Pendiente de especificar,,,,NO
+VACUNA_BCG,Numérico entero,,,Pendiente de especificar,,,,1
+VACUNA_BCGD,Texto,,,Pendiente de especificar,,,,SI
+VACUNAHEPATITIS_B,Numérico entero,,,Pendiente de especificar,,,,1
+VACUNAHEPATITIS_BD,Texto,,,Pendiente de especificar,,,,SI
+VITAMINA_A,Numérico entero,,,Pendiente de especificar,,,,0
+VITAMINA_AD,Texto,,,Pendiente de especificar,,,,NO ESPECIFICADO
+VITAMINA_K,Numérico entero,,,Pendiente de especificar,,,,1
+VITAMINA_KD,Texto,,,Pendiente de especificar,,,,SI
+PRODUCTOEMBARAZO,Numérico entero,,,Pendiente de especificar,,,,1
+PRODUCTOEMBARAZOD,Texto,,,Pendiente de especificar,,,,ÚNICO
+ORDENPRODUCTO,Numérico entero,,,Pendiente de especificar,,,,
+TOTALPRODUCTOS,Numérico entero,,,Pendiente de especificar,,,,
+ANOMALIACIE1,Texto,,,Pendiente de especificar,,,,NINGUNA APARENTE
+CODIGOCIEANOMALIA1,Numérico entero,,,Pendiente de especificar,,,,0000
+ANOMALIACIE2,Texto,,,Pendiente de especificar,,,,NINGUNA APARENTE
+CODIGOCIEANOMALIA2,Numérico entero,,,Pendiente de especificar,,,,0000
+RESOLUCIONEMBARAZO,Numérico entero,,,Pendiente de especificar,,,,3
+RESOLUCIONEMBARAZOD,Texto,,,Pendiente de especificar,,,,CESÁREA
+UTILIZOFORCEPS,Numérico entero,,,Pendiente de especificar,,,,8
+UTILIZOFORCEPSD,Texto,,,Pendiente de especificar,,,,NO APLICA
+LUGARNACIMIENTO,Numérico entero,,,Lugar donde ocurrio el nacimiento indicador numerico,,,,9
+LUGARNACIMIENTOD,Texto,,,Lugar donde ocurrio el nacimiento,,,,UNIDAD MÉDICA PRIVADA
+CLUES,Alfanumerico,,,Pendiente de especificar,,,,SRSMP000314
+TIEMPOTRASLADO,Hora,hh:mm:aa AM/PM,,Pendiente de especificar,,,,12:15:00 AM
+TIPOCESAREA,Numérico entero,,,Indicador de si fue por cesarea,,,,1
+TIPOCESAREAD,Texto,,,Indicador textual de si fue cesarea,,,,PROGRAMADO
+PERSONALATENDIO,Numérico entero,,,Pendiente de especificar,,,,1
+PERSONALATENDIOD,Texto,,,Pendiente de especificar,,,,MÉDICO
+TIPOMEDICOATENDIO,Numérico entero,,,Pendiente de especificar,,,,11
+TIPOMEDICOATENDIOD,Texto,,,Pendiente de especificar,,,,MÉDICO GINECO OBSTETRA
+ENTIDADFEDERATIVAPARTO,Numérico entero,,,Clave de la entidad federativa donde fue el parto,,,,26
+ENTIDADFEDERATIVAPARTOD,Texto,,,Nombre de la entidad federativa donde fue el parto,,,,SONORA
+MUNICIPIOPARTO,Numérico entero,,,Clave del municipio donde fue el parto,,,,55
+MUNICIPIOPARTOD,Texto,,,Nombre del municipio donde fue el parto,,,,SAN LUIS RÍO COLORADO
+LOCALIDADPARTO,Numérico entero,,,Clave de la localidad donde fue el parto,,,,1
+LOCALIDADPARTOD,Texto,,,Nombre de la localidad donde fue el parto,,,,SAN LUIS RIO COLORADO
+CERTIFICADOPOR,Numérico entero,,,Pendiente de especificar,,,,7
+CERTIFICADOPORD,Texto,,,Pendiente de especificar,,,,MÉDICO GINECO-OBSTETRA
+CLUESCERTIFICA,Alfanumerico,,,Pendiente de especificar,,,,
+ENTIDADFEDERATIVACERTIFICA,Numérico entero,,,Pendiente de especificar,,,,26
+ENTIDADFEDERATIVACERTIFICAD,Texto,,,Pendiente de especificar,,,,SONORA
+MUNICIPIOCERTIFICA,Numérico entero,,,Pendiente de especificar,,,,55
+MUNICIPIOCERTIFICAD,Texto,,,Pendiente de especificar,,,,SAN LUIS RÍO COLORADO
+LOCALIDADCERTIFICA,Numérico entero,,,Pendiente de especificar,,,,1
+LOCALIDADCERTIFICAD,Texto,,,Pendiente de especificar,,,,SAN LUIS RIO COLORADO
+FECHACERTIFICADO,Fecha,mm/dd/aaaa,,Pendiente de especificar,,,,1/8/2022

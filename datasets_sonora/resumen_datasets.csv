@@ -1,0 +1,311 @@
+path,status,rows,cols,missing_cols_count,avg_pct_missing_per_col,read_encoding
+datasets_sonora_xlsx/Matriculas/Matriculas Enero - Abril 2024.xlsx,OK,2852.0,11.0,0,0.0,
+datasets_sonora_xlsx/Matriculas/Matriculas Enero - Abril 2022.xlsx,OK,2446.0,11.0,0,0.0,
+datasets_sonora_xlsx/Matriculas/Matriculas Mayo - Agosto 2023.xlsx,OK,2045.0,11.0,0,0.0,
+datasets_sonora_xlsx/Matriculas/Matriculas Enero - Abril 2023.xlsx,OK,2823.0,11.0,0,0.0,
+datasets_sonora_xlsx/Matriculas/Diccionario.xlsx,OK,11.0,9.0,4,0.4343,
+datasets_sonora_xlsx/Matriculas/Catalogo.xlsx,OK,10.0,2.0,0,0.0,
+datasets_sonora_xlsx/Matriculas/Matriculas Septiembre - Diciembre 2024.xlsx,OK,3654.0,11.0,0,0.0,
+datasets_sonora_xlsx/Matriculas/Matriculas Mayo - Agosto 2022.xlsx,OK,1788.0,11.0,0,0.0,
+datasets_sonora_xlsx/Matriculas/Matriculas Septiembre - Diciembre 2023.xlsx,OK,3396.0,11.0,0,0.0,
+datasets_sonora_xlsx/Matriculas/Matriculas Enero - Abril 2025.xlsx,OK,3177.0,11.0,0,0.0,
+datasets_sonora_xlsx/Matriculas/Matriculas Mayo - Agosto 2025.xlsx,OK,2416.0,11.0,0,0.0,
+datasets_sonora_xlsx/Matriculas/Matriculas Septiembre - Diciembre 2022.xlsx,OK,3391.0,11.0,1,0.0,
+datasets_sonora_xlsx/Matriculas/Matriculas Mayo - Agosto 2024.xlsx,OK,2138.0,11.0,0,0.0,
+datasets_sonora_xlsx/Matrículas/Matriculas Ciclo 2021 - 2022.xlsx,OK,2410.0,9.0,0,0.0,
+datasets_sonora_xlsx/Matrículas de Estudiantes/Matriculas - 2022 - 2.xlsx,OK,15212.0,70.0,28,0.277,
+datasets_sonora_xlsx/Índice de marginación por municipio/Diccionario.xlsx,OK,18.0,9.0,3,0.1482,
+datasets_sonora_xlsx/Índice de marginación por municipio/Catalogo.xlsx,OK,32.0,2.0,0,0.0,
+datasets_sonora_xlsx/Índice de marginación por municipio/Indice de marginación por municipio 2020.xlsx,OK,72.0,18.0,0,0.0,
+datasets_sonora_xlsx/Mejora Regulatoria para el Entorno Digital de la Administración Pública Estatal/Mejora Regulatoria.xlsx,OK,13.0,16.0,4,0.1971,
+datasets_sonora_xlsx/Mejora Regulatoria para el Entorno Digital de la Administración Pública Estatal/Diccionario.xlsx,OK,40.0,9.0,4,0.2556,
+datasets_sonora_xlsx/Planeación TIC en la Administración Pública Estatal/Diccionario.xlsx,OK,12.0,9.0,3,0.25,
+datasets_sonora_xlsx/Planeación TIC en la Administración Pública Estatal/Planeación TIC.xlsx,OK,14.0,12.0,5,0.2083,
+datasets_sonora_xlsx/Ganadería Sonora/Ganadería Sonora año 2016.xlsx,OK,290.0,14.0,0,0.0,
+datasets_sonora_xlsx/Ganadería Sonora/Ganadería Sonora año 2008.xlsx,OK,306.0,14.0,4,0.1433,
+datasets_sonora_xlsx/Ganadería Sonora/Ganadería Sonora año 2017.xlsx,OK,308.0,14.0,0,0.0,
+datasets_sonora_xlsx/Ganadería Sonora/Ganadería Sonora año 2010.xlsx,OK,288.0,14.0,2,0.1429,
+datasets_sonora_xlsx/Ganadería Sonora/Ganadería Sonora año 2018.xlsx,OK,316.0,14.0,0,0.0,
+datasets_sonora_xlsx/Ganadería Sonora/Ganadería Sonora año 2021.xlsx,OK,329.0,14.0,0,0.0,
+datasets_sonora_xlsx/Ganadería Sonora/Diccionario.xlsx,OK,14.0,9.0,6,0.5317,
+datasets_sonora_xlsx/Ganadería Sonora/Catalogo.xlsx,OK,10.0,4.0,0,0.0,
+datasets_sonora_xlsx/Ganadería Sonora/Ganadería Sonora año 2020.xlsx,OK,310.0,14.0,0,0.0,
+datasets_sonora_xlsx/Ganadería Sonora/Ganadería Sonora año 2022.xlsx,OK,335.0,14.0,0,0.0,
+datasets_sonora_xlsx/Ganadería Sonora/Ganadería Sonora año 2011.xlsx,OK,274.0,14.0,2,0.1429,
+datasets_sonora_xlsx/Ganadería Sonora/Ganadería Sonora año 2009.xlsx,OK,296.0,14.0,2,0.1429,
+datasets_sonora_xlsx/Ganadería Sonora/Ganadería Sonora año 2012.xlsx,OK,289.0,14.0,2,0.1429,
+datasets_sonora_xlsx/Ganadería Sonora/Ganadería Sonora año 2006.xlsx,OK,286.0,14.0,2,0.1429,
+datasets_sonora_xlsx/Ganadería Sonora/Ganadería Sonora año 2019.xlsx,OK,310.0,14.0,0,0.0,
+datasets_sonora_xlsx/Ganadería Sonora/Ganadería Sonora año 2015.xlsx,OK,284.0,14.0,0,0.0,
+datasets_sonora_xlsx/Ganadería Sonora/Ganadería Sonora año 2014.xlsx,OK,278.0,14.0,2,0.1429,
+datasets_sonora_xlsx/Ganadería Sonora/Ganadería Sonora año 2007.xlsx,OK,292.0,14.0,2,0.1429,
+datasets_sonora_xlsx/Discapacidad y grupo étnico/Discapacidad y Grupo Étnico Septiembre - Diciembre 2024.xlsx,OK,39.0,8.0,0,0.0,
+datasets_sonora_xlsx/Discapacidad y grupo étnico/Discapacidad y Grupo Étnico Mayo - Agosto 2024.xlsx,OK,27.0,8.0,0,0.0,
+datasets_sonora_xlsx/Discapacidad y grupo étnico/Discapacidad y Grupo Étnico Enero - Abril 2022.xlsx,OK,29.0,8.0,0,0.0,
+datasets_sonora_xlsx/Discapacidad y grupo étnico/Discapacidad y Grupo Étnico Mayo - Agosto 2025.xlsx,OK,39.0,8.0,2,0.0064,
+datasets_sonora_xlsx/Discapacidad y grupo étnico/Discapacidad y Grupo Étnico Septiembre - Diciembre 2022.xlsx,OK,27.0,8.0,0,0.0,
+datasets_sonora_xlsx/Discapacidad y grupo étnico/Diccionario.xlsx,OK,8.0,9.0,4,0.4444,
+datasets_sonora_xlsx/Discapacidad y grupo étnico/Discapacidad y Grupo Étnico Mayo - Agosto 2022.xlsx,OK,29.0,8.0,0,0.0,
+datasets_sonora_xlsx/Discapacidad y grupo étnico/Discapacidad y Grupo Étnico Enero - Abril 2025.xlsx,OK,39.0,8.0,0,0.0,
+datasets_sonora_xlsx/Discapacidad y grupo étnico/Discapacidad y Grupo Étnico Enero - Abril 2024.xlsx,OK,27.0,8.0,0,0.0,
+datasets_sonora_xlsx/Discapacidad y grupo étnico/Discapacidad y Grupo Étnico Mayo - Agosto 2023.xlsx,OK,27.0,8.0,0,0.0,
+datasets_sonora_xlsx/Discapacidad y grupo étnico/Discapacidad y Grupo Étnico Septiembre - Diciembre 2023.xlsx,OK,27.0,8.0,0,0.0,
+datasets_sonora_xlsx/Discapacidad y grupo étnico/Discapacidad y Grupo Étnico Enero - Abril 2023.xlsx,OK,27.0,8.0,0,0.0,
+datasets_sonora_xlsx/Fortalezas y Debilidades del Entorno Digital de la Administración Pública Estatal/Diccionario.xlsx,OK,15.0,9.0,4,0.3037,
+datasets_sonora_xlsx/Fortalezas y Debilidades del Entorno Digital de la Administración Pública Estatal/Fortalezas y Debilidades.xlsx,OK,14.0,26.0,14,0.1896,
+datasets_sonora_xlsx/Encuestas a personal/Encuesta - Agencia Fiscal Centro de Gobierno.xlsx,OK,18.0,20.0,3,0.0667,
+datasets_sonora_xlsx/Encuestas a personal/Encuesta - Registro Civil.xlsx,OK,44.0,21.0,11,0.119,
+datasets_sonora_xlsx/Encuestas a personal/Encuesta - Junta Local.xlsx,OK,49.0,21.0,7,0.0768,
+datasets_sonora_xlsx/Encuestas a personal/Encuesta - Agencia Fiscal CUM.xlsx,OK,29.0,21.0,17,0.1297,
+datasets_sonora_xlsx/Promedio Académico/Promedio Académico Mayo - Agosto 2023.xlsx,OK,27.0,7.0,0,0.0,
+datasets_sonora_xlsx/Promedio Académico/Promedio Académico Septiembre - Diciembre 2022.xlsx,OK,27.0,7.0,0,0.0,
+datasets_sonora_xlsx/Promedio Académico/Promedio Académico Mayo - Agosto 2022.xlsx,OK,29.0,7.0,0,0.0,
+datasets_sonora_xlsx/Promedio Académico/Promedio Académico Enero - Abril 2022.xlsx,OK,29.0,7.0,0,0.0,
+datasets_sonora_xlsx/Promedio Académico/Promedio Académico Septiembre - Diciembre 2023.xlsx,OK,27.0,7.0,0,0.0,
+datasets_sonora_xlsx/Promedio Académico/Diccionario.xlsx,OK,7.0,9.0,4,0.4286,
+datasets_sonora_xlsx/Promedio Académico/Promedio Académico Mayo - Agosto 2024.xlsx,OK,26.0,7.0,0,0.0,
+datasets_sonora_xlsx/Promedio Académico/Catalogo.xlsx,OK,10.0,2.0,0,0.0,
+datasets_sonora_xlsx/Promedio Académico/Promedio Académico Enero - Abril 2023.xlsx,OK,27.0,7.0,0,0.0,
+datasets_sonora_xlsx/Promedio Académico/Promedio Académico Septiembre - Diciembre 2024.xlsx,OK,39.0,7.0,0,0.0,
+datasets_sonora_xlsx/Promedio Académico/Promedio Académico Enero - Abril 2025.xlsx,OK,39.0,7.0,0,0.0,
+datasets_sonora_xlsx/Promedio Académico/Promedio Académico Enero - Abril 2024.xlsx,OK,27.0,7.0,0,0.0,
+datasets_sonora_xlsx/Capacitación a Docentes de Educación Básica/Capacitaciones 2do trimestre 2022.xlsx,OK,22.0,11.0,0,0.0,
+datasets_sonora_xlsx/Consulta Externa/Consulta Externa.xlsx,OK,195453.0,13.0,0,0.0,
+datasets_sonora_xlsx/Desarrollo de Software en la Administración Pública Estatal/Desarrollo de Software.xlsx,OK,12.0,40.0,18,0.2646,
+datasets_sonora_xlsx/Desarrollo de Software en la Administración Pública Estatal/Diccionario.xlsx,OK,40.0,9.0,4,0.2556,
+datasets_sonora_xlsx/Recursos Hídricos/Datos hídricos 2000-2009.xlsx,OK,32877.0,3.0,0,0.0,
+datasets_sonora_xlsx/Recursos Hídricos/Datos hídricos 2020-2024.xlsx,OK,16059.0,3.0,0,0.0,
+datasets_sonora_xlsx/Recursos Hídricos/Catalogo.xlsx,OK,10.0,19.0,0,0.0,
+datasets_sonora_xlsx/Recursos Hídricos/Datos hídricos 2010-2019.xlsx,OK,32868.0,3.0,0,0.0,
+datasets_sonora_xlsx/Recursos Hídricos/Datos hídricos 1950-1959.xlsx,OK,15371.0,3.0,0,0.0,
+datasets_sonora_xlsx/Recursos Hídricos/Datos hídricos 1990-1999.xlsx,OK,32868.0,3.0,0,0.0,
+datasets_sonora_xlsx/Recursos Hídricos/Datos hídricos 1941-1949.xlsx,OK,7205.0,3.0,0,0.0,
+datasets_sonora_xlsx/Recursos Hídricos/Datos hídricos 1980-1989.xlsx,OK,32877.0,3.0,0,0.0,
+datasets_sonora_xlsx/Recursos Hídricos/Datos hídricos 1970-1979.xlsx,OK,32868.0,3.0,0,0.0,
+datasets_sonora_xlsx/Proyecciones de población - Indicadores demográficos/Diccionario.xlsx,OK,29.0,9.0,2,0.1111,
+datasets_sonora_xlsx/Proyecciones de población - Indicadores demográficos/Catalogo.xlsx,OK,32.0,2.0,0,0.0,
+datasets_sonora_xlsx/Proyecciones de población - Indicadores demográficos/Indicadores demográficos 1990 - 2040.xlsx,OK,3672.0,29.0,0,0.0,
+datasets_sonora_xlsx/Atencion de Urgencias/Atencion de Urgencias 2018 - 2022.xlsx,OK,622784.0,15.0,0,0.0,
+datasets_sonora_xlsx/Sistema Epidemiológico y Estadístico de Defunciones/Defunciones 2022.xlsx,OK,13940.0,80.0,80,0.0263,
+datasets_sonora_xlsx/Beneficiarios de becas o estímulos educativos/Beneficiarios 2020 - 2022.xlsx,OK,116725.0,10.0,2,0.0001,
+datasets_sonora_xlsx/Plantas Eléctricas en Sonora/Diccionario.xlsx,OK,16.0,9.0,3,0.2639,
+datasets_sonora_xlsx/Plantas Eléctricas en Sonora/Plantas Eléctricas en Sonora.xlsx,OK,52.0,16.0,1,0.0024,
+datasets_sonora_xlsx/Índices de marginación por Entidad Federativa/Diccionario.xlsx,OK,16.0,9.0,3,0.125,
+datasets_sonora_xlsx/Índices de marginación por Entidad Federativa/Catalogo.xlsx,OK,32.0,2.0,0,0.0,
+datasets_sonora_xlsx/Índices de marginación por Entidad Federativa/Indice de marginación por Estado 2020.xlsx,OK,33.0,16.0,1,0.0019,
+datasets_sonora_xlsx/Índices de Reprobación/Indices Agosto - Diciembre 2022.xlsx,OK,267.0,12.0,7,0.1142,
+datasets_sonora_xlsx/Índices de Reprobación/Indices Enero - Junio - 2022.xlsx,OK,179.0,12.0,6,0.5,
+datasets_sonora_xlsx/Denuncias Ambientales/Denuncias 1er Trimestre 2022.xlsx,OK,29.0,9.0,0,0.0,
+datasets_sonora_xlsx/Gobernanza de Datos en la Administración Pública Estatal/Diccionario.xlsx,OK,21.0,9.0,5,0.3386,
+datasets_sonora_xlsx/Gobernanza de Datos en la Administración Pública Estatal/Gobernanza de Datos.xlsx,OK,13.0,23.0,11,0.2809,
+datasets_sonora_xlsx/Estudiantes de reingreso/Reingreso Mayo - Agosto 2022.xlsx,OK,29.0,4.0,0,0.0,
+datasets_sonora_xlsx/Estudiantes de reingreso/Reingreso Mayo - Agosto 2023.xlsx,OK,27.0,4.0,1,0.0092,
+datasets_sonora_xlsx/Estudiantes de reingreso/Reingreso Enero - Abril 2022.xlsx,OK,29.0,4.0,0,0.0,
+datasets_sonora_xlsx/Estudiantes de reingreso/Reingreso Mayo - Agosto 2024.xlsx,OK,27.0,4.0,0,0.0,
+datasets_sonora_xlsx/Estudiantes de reingreso/Diccionario.xlsx,OK,4.0,9.0,4,0.4444,
+datasets_sonora_xlsx/Estudiantes de reingreso/Reingreso Enero - Abril 2023.xlsx,OK,27.0,4.0,0,0.0,
+datasets_sonora_xlsx/Estudiantes de reingreso/Reingreso Enero - Abril 2024.xlsx,OK,27.0,4.0,0,0.0,
+datasets_sonora_xlsx/Estudiantes de reingreso/Reingreso Septiembre - Diciembre 2024.xlsx,OK,38.0,4.0,1,0.0197,
+datasets_sonora_xlsx/Estudiantes de reingreso/Reingreso Mayo - Agosto 2025.xlsx,OK,38.0,4.0,0,0.0,
+datasets_sonora_xlsx/Estudiantes de reingreso/Reingreso Enero - Abril 2025.xlsx,OK,39.0,4.0,0,0.0,
+datasets_sonora_xlsx/Estudiantes de reingreso/Reingreso Septiembre - Diciembre 2023.xlsx,OK,27.0,4.0,1,0.0092,
+datasets_sonora_xlsx/Estudiantes de reingreso/Reingreso Septiembre - Diciembre 2022.xlsx,OK,27.0,4.0,0,0.0,
+datasets_sonora_xlsx/Aprovechamiento Académico/Aprovechamiento - 2021 - 2.xlsx,OK,80.0,8.0,4,0.0203,
+datasets_sonora_xlsx/Programa anual de adquisiciones/Julio - 2025.xlsx,ERROR,,,0,,
+datasets_sonora_xlsx/Apoyos Social Otorgados a Población Vulnerable en fechas Especiales/Apoyos otorgados 2022.xlsx,OK,72.0,6.0,0,0.0,
+datasets_sonora_xlsx/Trámites y Servicios/Tramites y Servicios - 2022.xlsx,OK,770.0,16.0,0,0.0,
+datasets_sonora_xlsx/Egresos Hospitalarios/Egresos Hospitalarios.xlsx,OK,328750.0,15.0,0,0.0,
+datasets_sonora_xlsx/Proyecciones de población - Grandes grupos de edad/Proyecciones de población por grandes grupos de edad 1990-2040.xlsx,OK,7344.0,11.0,0,0.0,
+datasets_sonora_xlsx/Proyecciones de población - Grandes grupos de edad/Diccionario.xlsx,OK,11.0,9.0,2,0.1111,
+datasets_sonora_xlsx/Proyecciones de población - Grandes grupos de edad/Catalogo.xlsx,OK,32.0,2.0,0,0.0,
+datasets_sonora_xlsx/Gobernanza Tecnológica en la Administración Pública Estatal/Diccionario.xlsx,OK,15.0,9.0,4,0.3037,
+datasets_sonora_xlsx/Gobernanza Tecnológica en la Administración Pública Estatal/Gobernanza Tecnológica.xlsx,OK,12.0,15.0,6,0.1833,
+datasets_sonora_xlsx/Reporte de Temporada de Caza en el Estado de Sonora/Temporada de caza 2015.xlsx,OK,44.0,8.0,0,0.0,
+datasets_sonora_xlsx/Reporte de Temporada de Caza en el Estado de Sonora/Temporada de caza 2022.xlsx,OK,50.0,8.0,2,0.25,
+datasets_sonora_xlsx/Reporte de Temporada de Caza en el Estado de Sonora/Temporada de caza 2016.xlsx,OK,48.0,8.0,0,0.0,
+datasets_sonora_xlsx/Reporte de Temporada de Caza en el Estado de Sonora/Catalogo.xlsx,OK,52.0,2.0,0,0.0,
+datasets_sonora_xlsx/Reporte de Temporada de Caza en el Estado de Sonora/Temporada de caza 2018.xlsx,OK,50.0,8.0,2,0.13,
+datasets_sonora_xlsx/Reporte de Temporada de Caza en el Estado de Sonora/Temporada de caza 2021.xlsx,OK,48.0,8.0,2,0.25,
+datasets_sonora_xlsx/Reporte de Temporada de Caza en el Estado de Sonora/Temporada de caza 2019.xlsx,OK,50.0,8.0,2,0.25,
+datasets_sonora_xlsx/Reporte de Temporada de Caza en el Estado de Sonora/Temporada de caza 2020.xlsx,OK,50.0,8.0,2,0.25,
+datasets_sonora_xlsx/Reporte de Temporada de Caza en el Estado de Sonora/Temporada de caza 2017.xlsx,OK,48.0,8.0,2,0.0365,
+datasets_sonora_xlsx/Egresados/Egresados - 2020 - 2021.xlsx,OK,30.0,6.0,5,0.4278,
+datasets_sonora_xlsx/Estudiantes de nuevo ingreso/Alumnos de Nuevo Ingreso Septiembre - Diciembre 2022.xlsx,OK,14.0,4.0,0,0.0,
+datasets_sonora_xlsx/Estudiantes de nuevo ingreso/Alumnos de Nuevo Ingreso Enero - Abril 2022.xlsx,OK,1.0,4.0,0,0.0,
+datasets_sonora_xlsx/Estudiantes de nuevo ingreso/Diccionario.xlsx,OK,4.0,9.0,4,0.4444,
+datasets_sonora_xlsx/Estudiantes de nuevo ingreso/Alumnos de Nuevo Ingreso Enero - Abril 2025.xlsx,OK,1.0,4.0,0,0.0,
+datasets_sonora_xlsx/Estudiantes de nuevo ingreso/Alumnos de Nuevo Ingreso Septiembre - Diciembre 2023.xlsx,OK,13.0,4.0,0,0.0,
+datasets_sonora_xlsx/Estudiantes de nuevo ingreso/Alumnos de Nuevo Ingreso Mayo - Agosto 2025.xlsx,OK,1.0,4.0,0,0.0,
+datasets_sonora_xlsx/Estudiantes de nuevo ingreso/Alumnos de Nuevo Ingreso Septiembre - Diciembre 2024.xlsx,OK,13.0,4.0,0,0.0,
+datasets_sonora_xlsx/Proyecciones de población - Grupos quinquenales de edad/Diccionario.xlsx,OK,25.0,9.0,2,0.1111,
+datasets_sonora_xlsx/Proyecciones de población - Grupos quinquenales de edad/Catalogo.xlsx,OK,32.0,2.0,0,0.0,
+datasets_sonora_xlsx/Proyecciones de población - Grupos quinquenales de edad/Proyecciones de población por grupos quinquenales.xlsx,OK,7344.0,25.0,0,0.0,
+datasets_sonora_xlsx/Índices de Reprobación Modalidad Remota/Indices Agosto - Diciembre 2022.xlsx,OK,64.0,12.0,7,0.3919,
+datasets_sonora_xlsx/Registro de Usuarios Beneficiados/Beneficiados.xlsx,OK,778.0,11.0,1,0.004,
+datasets_sonora_xlsx/Infraestructura Tecnológica y Ciberseguridad en la Administración Pública Estatal/Diccionario.xlsx,OK,42.0,9.0,5,0.2698,
+datasets_sonora_xlsx/Infraestructura Tecnológica y Ciberseguridad en la Administración Pública Estatal/Respuestas Infraestructura Tecnologica y Ciberseguridad.xlsx,OK,14.0,43.0,17,0.2309,
+datasets_sonora_xlsx/Vigilancia Epidemiológica/Vigilancia Epidemiológica - 2022.xlsx,OK,16383.0,59.0,0,0.0,
+datasets_sonora_xlsx/Estudiantes Titulados/Alumnos Titulados 2022.xlsx,OK,32.0,5.0,0,0.0,
+datasets_sonora_xlsx/Estudiantes Titulados/Alumnos Titulados 2024.xlsx,OK,35.0,5.0,0,0.0,
+datasets_sonora_xlsx/Estudiantes Titulados/Diccionario.xlsx,OK,5.0,9.0,4,0.4222,
+datasets_sonora_xlsx/Estudiantes Titulados/Catalogo.xlsx,OK,10.0,2.0,0,0.0,
+datasets_sonora_xlsx/Estudiantes Titulados/Alumnos Titulados 2023.xlsx,OK,37.0,5.0,0,0.0,
+datasets_sonora_xlsx/Población - Nuevo ingreso/Población - Nuevo Ingreso - 2021 - 2022.xlsx,OK,24.0,6.0,5,0.3958,
+datasets_sonora_xlsx/Pesca y Acuacultura Sonorense/Pesca y Acuacultura 2016.xlsx,OK,182.0,15.0,0,0.0,
+datasets_sonora_xlsx/Pesca y Acuacultura Sonorense/Pesca y Acuacultura 2008.xlsx,OK,185.0,15.0,0,0.0,
+datasets_sonora_xlsx/Pesca y Acuacultura Sonorense/Pesca y Acuacultura 2012.xlsx,OK,185.0,15.0,0,0.0,
+datasets_sonora_xlsx/Pesca y Acuacultura Sonorense/Pesca y Acuacultura 2021.xlsx,OK,257.0,15.0,0,0.0,
+datasets_sonora_xlsx/Pesca y Acuacultura Sonorense/Pesca y Acuacultura 2017.xlsx,OK,188.0,15.0,0,0.0,
+datasets_sonora_xlsx/Pesca y Acuacultura Sonorense/Pesca y Acuacultura 2007.xlsx,OK,185.0,15.0,0,0.0,
+datasets_sonora_xlsx/Pesca y Acuacultura Sonorense/Pesca y Acuacultura 2014.xlsx,OK,186.0,15.0,0,0.0,
+datasets_sonora_xlsx/Pesca y Acuacultura Sonorense/Pesca y Acuacultura 2005.xlsx,OK,185.0,15.0,0,0.0,
+datasets_sonora_xlsx/Pesca y Acuacultura Sonorense/Catalogo.xlsx,OK,68.0,2.0,0,0.0,
+datasets_sonora_xlsx/Pesca y Acuacultura Sonorense/Pesca y Acuacultura 2006.xlsx,OK,185.0,15.0,0,0.0,
+datasets_sonora_xlsx/Pesca y Acuacultura Sonorense/Pesca y Acuacultura 2010.xlsx,OK,185.0,15.0,0,0.0,
+datasets_sonora_xlsx/Pesca y Acuacultura Sonorense/Pesca y Acuacultura 2011.xlsx,OK,185.0,15.0,0,0.0,
+datasets_sonora_xlsx/Pesca y Acuacultura Sonorense/Pesca y Acuacultura 2019.xlsx,OK,225.0,15.0,0,0.0,
+datasets_sonora_xlsx/Pesca y Acuacultura Sonorense/Pesca y Acuacultura 2022.xlsx,OK,308.0,15.0,0,0.0,
+datasets_sonora_xlsx/Pesca y Acuacultura Sonorense/Pesca y Acuacultura 2013.xlsx,OK,185.0,15.0,0,0.0,
+datasets_sonora_xlsx/Pesca y Acuacultura Sonorense/Pesca y Acuacultura 2015.xlsx,OK,186.0,15.0,0,0.0,
+datasets_sonora_xlsx/Pesca y Acuacultura Sonorense/Pesca y Acuacultura 2020.xlsx,OK,246.0,15.0,0,0.0,
+datasets_sonora_xlsx/Pesca y Acuacultura Sonorense/Pesca y Acuacultura 2018.xlsx,OK,208.0,15.0,0,0.0,
+datasets_sonora_xlsx/Pesca y Acuacultura Sonorense/Pesca y Acuacultura 2009.xlsx,OK,185.0,15.0,0,0.0,
+datasets_sonora_xlsx/Visitas de Inspeccion de la PROAES/Inspecciones 3er trimestre - 2021.xlsx,OK,35.0,4.0,1,0.0072,
+datasets_sonora_xlsx/Titulados/Titulados - 2020 - 2021.xlsx,OK,28.0,6.0,5,0.3452,
+datasets_sonora_xlsx/Estudiantes egresados/Alumnos Egresados 2022.xlsx,OK,29.0,5.0,0,0.0,
+datasets_sonora_xlsx/Estudiantes egresados/Diccionario.xlsx,OK,5.0,9.0,4,0.4222,
+datasets_sonora_xlsx/Estudiantes egresados/Catalogo.xlsx,OK,10.0,2.0,0,0.0,
+datasets_sonora_xlsx/Estudiantes egresados/Alumnos Egresados 2023.xlsx,OK,27.0,5.0,0,0.0,
+datasets_sonora_xlsx/Estudiantes egresados/Alumnos Egresados 2024.xlsx,OK,27.0,5.0,0,0.0,
+datasets_sonora_xlsx/Programa Mano con Mano/Programas Junio 2022.xlsx,OK,2698.0,30.0,2,0.0123,
+datasets_sonora_xlsx/Relación de Titulados - Licenciatura/Titulados 2020 - 2021.xlsx,OK,249.0,7.0,0,0.0,
+datasets_sonora_xlsx/Presupuesto para las TIC en la Administración Pública Estatal/Presupuesto TIC.xlsx,OK,14.0,14.0,6,0.2041,
+datasets_sonora_xlsx/Presupuesto para las TIC en la Administración Pública Estatal/Diccionario.xlsx,OK,14.0,9.0,3,0.2619,
+datasets_sonora_xlsx/Personal Sindicalizado y de Confianza/Personal Sindicalizado y de Confianza.xlsx,OK,231.0,6.0,0,0.0,
+datasets_sonora_xlsx/Indice de marginación urbana en Areas Geoestadísticas Básicas AGEB/Indice de marginación urbana en Areas Geoestadísticas Básicas AGEB 2020.xlsx,OK,2096.0,23.0,0,0.0,
+datasets_sonora_xlsx/Indice de marginación urbana en Areas Geoestadísticas Básicas AGEB/Diccionario.xlsx,OK,23.0,9.0,3,0.1449,
+datasets_sonora_xlsx/Indice de marginación urbana en Areas Geoestadísticas Básicas AGEB/Catalogo.xlsx,OK,32.0,2.0,0,0.0,
+datasets_sonora_xlsx/Población - Reingreso/Población - Reingreso - 2021 - 2022.xlsx,OK,33.0,6.0,5,0.4091,
+datasets_sonora_xlsx/Información General del Entorno Digital en la Administración Pública Estatal/Información General.xlsx,OK,14.0,23.0,13,0.2764,
+datasets_sonora_xlsx/Información General del Entorno Digital en la Administración Pública Estatal/Diccionario.xlsx,OK,23.0,9.0,3,0.2754,
+datasets_sonora_xlsx/Politica Digital en la Administración Pública Estatal/Diccionario.xlsx,OK,21.0,9.0,5,0.3386,
+datasets_sonora_xlsx/Politica Digital en la Administración Pública Estatal/Politica Digital.xlsx,OK,14.0,21.0,9,0.3061,
+datasets_sonora_xlsx/Cuerpos de Agua en el Estado de Sonora: Ubicación de las Presas/Catálogo de presas.xlsx,OK,9.0,17.0,0,0.0,
+datasets_sonora_xlsx/Cuerpos de Agua en el Estado de Sonora: Ubicación de las Presas/Diccionario.xlsx,OK,5.0,5.0,5,0.28,
+datasets_sonora_xlsx/Indice de marginación urbana por colonia/Diccionario.xlsx,OK,28.0,9.0,3,0.1667,
+datasets_sonora_xlsx/Indice de marginación urbana por colonia/Catalogo.xlsx,OK,32.0,2.0,0,0.0,
+datasets_sonora_xlsx/Indice de marginación urbana por colonia/Indice de marginación urbana por colonia  2020.xlsx,OK,2129.0,28.0,0,0.0,
+datasets_sonora_xlsx/Información Sobre Nacimientos/Información sobre Nacimientos - 2022.xlsx,OK,23283.0,106.0,8,0.0277,
+datasets_sonora_xlsx/Inspección y vigilancia/Inspección y Vigilancia 2do Trim - 2022.xlsx,OK,35.0,4.0,1,0.0072,
+datasets_sonora_xlsx/Relación de Titulados - Posgrado/Titulados 2020 - 2021.xlsx,OK,20.0,7.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2022.xlsx,OK,115.0,20.0,3,0.0987,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2001.xlsx,OK,403.0,16.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2000.xlsx,OK,408.0,16.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2018.xlsx,OK,1402.0,16.0,1,0.0074,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2021.xlsx,OK,1509.0,16.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2011.xlsx,OK,1141.0,16.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2010.xlsx,OK,1143.0,16.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2012.xlsx,OK,1116.0,16.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2003.xlsx,OK,1122.0,16.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2015.xlsx,OK,1118.0,16.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2013.xlsx,OK,1127.0,16.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Catalogo.xlsx,OK,233.0,5.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2017.xlsx,OK,1348.0,16.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2008.xlsx,OK,1046.0,16.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2004.xlsx,OK,1040.0,16.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2016.xlsx,OK,1088.0,16.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2014.xlsx,OK,1086.0,16.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2005.xlsx,OK,1081.0,16.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2007.xlsx,OK,1068.0,16.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2002.xlsx,OK,393.0,16.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 1999.xlsx,OK,381.0,16.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2006.xlsx,OK,1069.0,16.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2009.xlsx,OK,1066.0,16.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2019.xlsx,OK,1726.0,16.0,0,0.0,
+datasets_sonora_xlsx/Agricultura Sonora/Agricultura Sonora año 2020.xlsx,OK,1128.0,16.0,0,0.0,
+datasets_sonora_xlsx/Indice de marginación por localidad/Diccionario.xlsx,OK,19.0,9.0,3,0.1462,
+datasets_sonora_xlsx/Indice de marginación por localidad/Catalogo.xlsx,OK,32.0,2.0,0,0.0,
+datasets_sonora_xlsx/Indice de marginación por localidad/Indice de marginación por localidad 2020.xlsx,OK,1850.0,19.0,0,0.0,
+datasets_sonora_csv/Matrículas/Diccionario.csv,OK,9.0,9.0,4,0.3827,latin1
+datasets_sonora_csv/Matrículas de Estudiantes/Diccionario.csv,OK,70.0,9.0,6,0.573,latin1
+datasets_sonora_csv/Encuestas a personal/Diccionario.csv,OK,21.0,9.0,6,0.3968,latin1
+datasets_sonora_csv/Capacitación a Docentes de Educación Básica/Diccionario.csv,OK,11.0,9.0,6,0.5859,latin1
+datasets_sonora_csv/Consulta Externa/Diccionario.csv,OK,13.0,9.0,4,0.3761,latin1
+datasets_sonora_csv/Conjunto de geometrías de división municipal del Estado de Sonora/Catálogo.csv,ERROR,,,0,,
+datasets_sonora_csv/Recursos Hídricos/Diccionario.csv,OK,3.0,9.0,5,0.5185,latin1
+datasets_sonora_csv/Atencion de Urgencias/Diccionario.csv,OK,15.0,9.0,4,0.3852,latin1
+datasets_sonora_csv/Sistema Epidemiológico y Estadístico de Defunciones/Diccionario.csv,OK,80.0,9.0,6,0.5583,latin1
+datasets_sonora_csv/Beneficiarios de becas o estímulos educativos/Diccionario.csv,OK,10.0,9.0,4,0.4222,latin1
+datasets_sonora_csv/Índices de Reprobación/Diccionario.csv,OK,12.0,9.0,6,0.6481,latin1
+datasets_sonora_csv/Denuncias Ambientales/Diccionario.csv,OK,9.0,9.0,4,0.4321,latin1
+datasets_sonora_csv/Aprovechamiento Académico/Diccionario.csv,OK,8.0,9.0,6,0.6389,latin1
+datasets_sonora_csv/Nacimientos/Nacimientos 2013.csv,OK,760.0,6.0,0,0.0,utf-8
+datasets_sonora_csv/Nacimientos/Nacimientos 2020.csv,OK,715.0,6.0,0,0.0,utf-8
+datasets_sonora_csv/Nacimientos/Nacimientos 2014.csv,OK,745.0,6.0,0,0.0,utf-8
+datasets_sonora_csv/Nacimientos/Nacimientos 2022.csv,OK,672.0,6.0,0,0.0,utf-8
+datasets_sonora_csv/Nacimientos/Nacimientos 2017.csv,OK,682.0,6.0,0,0.0,utf-8
+datasets_sonora_csv/Nacimientos/Nacimientos 2019.csv,OK,683.0,6.0,0,0.0,utf-8
+datasets_sonora_csv/Nacimientos/Nacimientos 2010.csv,OK,755.0,6.0,0,0.0,utf-8
+datasets_sonora_csv/Nacimientos/Nacimientos 2018.csv,OK,684.0,6.0,0,0.0,utf-8
+datasets_sonora_csv/Nacimientos/Nacimientos 2015.csv,OK,732.0,6.0,0,0.0,utf-8
+datasets_sonora_csv/Nacimientos/Nacimientos 2024.csv,OK,627.0,6.0,0,0.0,latin1
+datasets_sonora_csv/Nacimientos/Nacimientos 2016.csv,OK,716.0,6.0,0,0.0,utf-8
+datasets_sonora_csv/Nacimientos/Nacimientos 2011.csv,OK,771.0,6.0,0,0.0,utf-8
+datasets_sonora_csv/Nacimientos/Nacimientos 2012.csv,OK,747.0,6.0,0,0.0,utf-8
+datasets_sonora_csv/Nacimientos/Nacimientos 2021.csv,OK,717.0,6.0,0,0.0,utf-8
+datasets_sonora_csv/Nacimientos/Nacimientos 2023.csv,OK,648.0,6.0,0,0.0,latin1
+datasets_sonora_csv/Nacimientos/Diccionario.csv,OK,6.0,9.0,4,0.4444,latin1
+datasets_sonora_csv/Programa anual de adquisiciones/Diccionario.csv,OK,20.0,9.0,4,0.3611,latin1
+datasets_sonora_csv/Apoyos Social Otorgados a Población Vulnerable en fechas Especiales/Diccionario.csv,OK,6.0,9.0,4,0.4444,latin1
+datasets_sonora_csv/Trámites y Servicios/Diccionario.csv,OK,16.0,9.0,7,0.5694,latin1
+datasets_sonora_csv/Egresos Hospitalarios/Diccionario.csv,OK,15.0,9.0,4,0.3852,latin1
+datasets_sonora_csv/Reporte de Temporada de Caza en el Estado de Sonora/Diccionario.csv,OK,8.0,9.0,6,0.5278,latin1
+datasets_sonora_csv/Egresados/Diccionario.csv,OK,6.0,9.0,4,0.3519,latin1
+datasets_sonora_csv/Índices de Reprobación Modalidad Remota/Diccionario.csv,OK,12.0,9.0,4,0.3519,latin1
+datasets_sonora_csv/Registro de Usuarios Beneficiados/Diccionario.csv,OK,11.0,9.0,6,0.5859,latin1
+datasets_sonora_csv/Vigilancia Epidemiológica/Diccionario.csv,OK,59.0,9.0,4,0.435,latin1
+datasets_sonora_csv/Población - Nuevo ingreso/Diccionario.csv,OK,6.0,9.0,4,0.3519,latin1
+datasets_sonora_csv/Defunciones/Defunciones 2024.csv,OK,20189.0,8.0,1,0.0014,latin1
+datasets_sonora_csv/Defunciones/Defunciones 2020.csv,OK,27719.0,8.0,4,0.0042,utf-8
+datasets_sonora_csv/Defunciones/Defunciones 2019.csv,OK,18709.0,8.0,3,0.006,utf-8
+datasets_sonora_csv/Defunciones/Defunciones 2016.csv,OK,16488.0,8.0,3,0.0083,utf-8
+datasets_sonora_csv/Defunciones/Defunciones 2015.csv,OK,15541.0,8.0,3,0.0096,utf-8
+datasets_sonora_csv/Defunciones/Defunciones 2022.csv,OK,22129.0,8.0,3,0.0033,utf-8
+datasets_sonora_csv/Defunciones/Defunciones 2017.csv,OK,16871.0,8.0,3,0.0075,utf-8
+datasets_sonora_csv/Defunciones/Defunciones 2021.csv,OK,25748.0,8.0,2,0.0035,utf-8
+datasets_sonora_csv/Defunciones/Defunciones 2023.csv,OK,854393.0,8.0,8,0.9763,latin1
+datasets_sonora_csv/Defunciones/Defunciones 2018.csv,OK,18016.0,8.0,3,0.0069,utf-8
+datasets_sonora_csv/Defunciones/Diccionario.csv,OK,8.0,9.0,4,0.3889,latin1
+datasets_sonora_csv/Pesca y Acuacultura Sonorense/Diccionario.csv,OK,15.0,9.0,6,0.5259,latin1
+datasets_sonora_csv/Visitas de Inspeccion de la PROAES/Diccionario.csv,OK,4.0,9.0,4,0.4167,latin1
+datasets_sonora_csv/Titulados/Diccionario.csv,OK,6.0,9.0,4,0.3519,latin1
+datasets_sonora_csv/Programa Mano con Mano/Diccionario.csv,OK,30.0,9.0,4,0.4444,latin1
+datasets_sonora_csv/Relación de Titulados - Licenciatura/Diccionario.csv,OK,9.0,9.0,9,0.4938,latin1
+datasets_sonora_csv/Personal Sindicalizado y de Confianza/Diccionario.csv,OK,6.0,9.0,4,0.4444,latin1
+datasets_sonora_csv/Población - Reingreso/Diccionario.csv,OK,6.0,9.0,4,0.3519,latin1
+datasets_sonora_csv/Divorcios/Divorcios 2016.csv,OK,77.0,9.0,5,0.0765,utf-8
+datasets_sonora_csv/Divorcios/Divorcios 2022.csv,OK,6064.0,9.0,5,0.0029,utf-8
+datasets_sonora_csv/Divorcios/Divorcios 2019.csv,OK,147.0,9.0,5,0.0763,utf-8
+datasets_sonora_csv/Divorcios/Divorcios 2024.csv,OK,6786.0,9.0,5,0.0023,utf-8
+datasets_sonora_csv/Divorcios/Divorcios 2018.csv,OK,127.0,9.0,5,0.1059,utf-8
+datasets_sonora_csv/Divorcios/Divorcios 2020.csv,OK,1670.0,9.0,5,0.0092,utf-8
+datasets_sonora_csv/Divorcios/Divorcios 2021.csv,OK,5548.0,9.0,5,0.0036,utf-8
+datasets_sonora_csv/Divorcios/Divorcios 2017.csv,OK,79.0,9.0,5,0.0703,utf-8
+datasets_sonora_csv/Divorcios/Divorcios 2023.csv,OK,6269.0,9.0,5,0.0027,utf-8
+datasets_sonora_csv/Divorcios/Divorcios 2015.csv,OK,68.0,9.0,5,0.0817,utf-8
+datasets_sonora_csv/Divorcios/Diccionario.csv,OK,9.0,9.0,4,0.3951,latin1
+datasets_sonora_csv/Información Sobre Nacimientos/Diccionario.csv,OK,106.0,9.0,6,0.5535,latin1
+datasets_sonora_csv/Inspección y vigilancia/Diccionario.csv,OK,4.0,9.0,4,0.4167,latin1
+datasets_sonora_csv/Relación de Titulados - Posgrado/Diccionario.csv,OK,9.0,9.0,9,0.4938,latin1
+datasets_sonora_csv/Agricultura Sonora/Diccionario.csv,OK,20.0,9.0,7,0.5278,latin1
+datasets_sonora_csv/Matrimonios/Matrimonios 2021.csv,OK,14300.0,8.0,4,0.0008,utf-8
+datasets_sonora_csv/Matrimonios/Matrimonios 2022.csv,OK,13881.0,8.0,4,0.0016,utf-8
+datasets_sonora_csv/Matrimonios/Matrimonios 2019.csv,OK,15390.0,8.0,3,0.0001,utf-8
+datasets_sonora_csv/Matrimonios/Matrimonios 2024.csv,OK,13523.0,8.0,2,0.0001,latin1
+datasets_sonora_csv/Matrimonios/Matrimonios 2020.csv,OK,10678.0,8.0,4,0.0006,utf-8
+datasets_sonora_csv/Matrimonios/Matrimonios 2023.csv,OK,14685.0,8.0,2,0.0001,latin1
+datasets_sonora_csv/Matrimonios/Matrimonios 2016.csv,OK,14642.0,8.0,4,0.0012,utf-8
+datasets_sonora_csv/Matrimonios/Matrimonios 2018.csv,OK,14760.0,8.0,2,0.0002,utf-8
+datasets_sonora_csv/Matrimonios/Diccionario.csv,OK,8.0,9.0,4,0.3889,latin1
+datasets_sonora_csv/Matrimonios/Matrimonios 2015.csv,OK,14600.0,8.0,4,0.0027,utf-8
+datasets_sonora_csv/Matrimonios/Matrimonios 2017.csv,OK,15054.0,8.0,4,0.0003,utf-8

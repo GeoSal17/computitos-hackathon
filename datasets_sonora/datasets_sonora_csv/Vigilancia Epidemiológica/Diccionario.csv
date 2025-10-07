@@ -1,0 +1,60 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+cve_estado,Numérico entero,nn,,Clave del estado,Si,,,26
+des_estado,Texto,,,Nombre del Estado,Si,,,Sonora
+cve_jurisd,Numérico entero,nn,,Clave de la Jurisdiccion,Si,,,1
+des_jurisd,Texto,,,Nombre de la Jurisdiccion,Si,,,Hermosillo
+cve_munici,Numérico entero,nnn,,Clave del Municipio,Si,,,1
+des_munici,Texto,,,Nombre del Municipio,Si,,,Aconchi
+cve_diagno,Numérico entero,nn,,Clave del diagnostico,Si,,,8
+des_diagno,Texto,,,Descripción del diagnostico,Si,,,Infecciones intestinales por otros organismos y las mal definidas
+cve_cie10,Alfanumerico,,,Clave,Si,,,"A04, A08-A09 excepto A08.0"
+no_semana,Numérico entero,,,Numero de la semana,Si,,,22
+acumulado,Numérico entero,,,Acumulados,Si,,,6
+menores_1,Numérico entero,,,Total de personas en vigilancia que son menores de 1 año,Si,,,0
+de01_a_04,Numérico entero,,,Total de personas en vigilancia entre 1 y 5 años,Si,,,2
+de05_a_09,Numérico entero,,,Total de personas en vigilancia entre 5 y 9 años,Si,,,0
+de10_a_14,Numérico entero,,,Total de personas en vigilancia entre 10 y 14 años,Si,,,1
+de15_a_19,Numérico entero,,,Total de personas en vigilancia entre 15 y 19 años,Si,,,0
+de20_a_24,Numérico entero,,,Total de personas en vigilancia entre 20 y 24 años,Si,,,1
+de25_a_44,Numérico entero,,,Total de personas en vigilancia entre 25 y 44 años,Si,,,0
+de45_a_49,Numérico entero,,,Total de personas en vigilancia entre 45 y 49 años,Si,,,0
+de50_a_59,Numérico entero,,,Total de personas en vigilancia entre 50 y 59 años,Si,,,0
+de60_a_64,Numérico entero,,,Total de personas en vigilancia entre 60 y 64 años,Si,,,0
+de65_y_mas,Numérico entero,,,Total de personas en vigilanciade 65 años o más,Si,,,1
+se_ignoran,Numérico entero,,,Pendiente de especificar,Si,,,0
+menores_1f,Numérico entero,,,Pendiente de especificar,Si,,,0
+de01_a_04f,Numérico entero,,,Pendiente de especificar,Si,,,0
+de05_a_09f,Numérico entero,,,Pendiente de especificar,Si,,,0
+de10_a_14f,Numérico entero,,,Pendiente de especificar,Si,,,0
+de15_a_19f,Numérico entero,,,Pendiente de especificar,Si,,,0
+de20_a_24f,Numérico entero,,,Pendiente de especificar,Si,,,0
+de25_a_44f,Numérico entero,,,Pendiente de especificar,Si,,,1
+de45_a_49f,Numérico entero,,,Pendiente de especificar,Si,,,0
+de50_a_59f,Numérico entero,,,Pendiente de especificar,Si,,,0
+de60_a_64f,Numérico entero,,,Pendiente de especificar,Si,,,0
+de65_y_maf,Numérico entero,,,Pendiente de especificar,Si,,,0
+se_ignoraf,Numérico entero,,,Pendiente de especificar,Si,,,0
+ssa,Numérico entero,,,Pendiente de especificar,Si,,,3
+imss_ord,Numérico entero,,,Pendiente de especificar,Si,,,3
+issste,Numérico entero,,,Pendiente de especificar,Si,,,0
+otras,Numérico entero,,,Pendiente de especificar,Si,,,0
+imss_sol,Numérico entero,,,Pendiente de especificar,Si,,,0
+d_if,Numérico entero,,,Pendiente de especificar,Si,,,0
+pemex,Numérico entero,,,Pendiente de especificar,Si,,,0
+sedena,Numérico entero,,,Pendiente de especificar,Si,,,0
+sedemar,Numérico entero,,,Pendiente de especificar,Si,,,0
+enero,Numérico entero,,,Vigilancias totales en enero,Si,,,0
+febrero,Numérico entero,,,Vigilancias totales en febrero,Si,,,0
+marzo,Numérico entero,,,Vigilancias totales en marzo,Si,,,0
+abril,Numérico entero,,,Vigilancias totales en abril,Si,,,0
+mayo,Numérico entero,,,Vigilancias totales en mayo,Si,,,0
+junio,Numérico entero,,,Vigilancias totales en junio,Si,,,6
+julio,Numérico entero,,,Vigilancias totales en julio,Si,,,0
+agosto,Numérico entero,,,Vigilancias totales en agosto,Si,,,0
+septiembre,Numérico entero,,,Vigilancias totales en septiembre,Si,,,0
+octubre,Numérico entero,,,Vigilancias totales en octubre,Si,,,0
+noviembre,Numérico entero,,,Vigilancias totales en noviembre,Si,,,0
+diciembre,Numérico entero,,,Vigilancias totales en diciembre,Si,,,0
+periodo,Numérico entero,nnnn,,Año que comprende el periodo,Si,,,2022
+totalm,Numérico entero,,,Total acumulado de Hombres,Si,,,5
+totalf,Numérico entero,,,Total acumulado de Mujeres,Si,,,1

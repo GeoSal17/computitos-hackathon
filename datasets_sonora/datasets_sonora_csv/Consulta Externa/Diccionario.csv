@@ -1,0 +1,14 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+CLUES,Alfanumerico,CCCCCnnnnnn,,Clave de la Unidad,Si,,,SRSSA000014
+Nombre_Establecimiento,Texto,,,Nombre del establecimiento,Si,,,CENTRO DE SALUD RURAL ACONCHI
+Cve_JS,Numerico entero,nn,,Clave de Jurisdiccion,Si,,,01
+Nomb_JS,Texto,,,Nombre de Jurisdiccion,Si,,,HERMOSILLO
+Cve_Mpo,Numerico entero,nnn,,Clave del Municipio,Si,,,001
+Nomb_Mpo,Texto,,,Nombre del Municipio,Si,,,ACONCHI
+Cve_Loc,Numerico entero,nnnn,,Clave de la Localidad,Si,,,0001
+Nomb_Loc,Texto,,,Nombre de la Localidad,Si,,,ACONCHI
+Sexo,Texto,,,Sexo,Si,,,HOMBRE
+Grupo_Edad,Categorico,"[<1,1,2-4,5-9,10-14,15-19,20-29,30-49,50-59,60 y mas,  NE]",,Grupo de edad,Si,,,< 1
+Mes,Numerico entero,nn,,Mes,Si,,,2
+Year,Numerico entero,nnnn,,Año,Si,,,2020
+Total,Numerico entero,nn,,Total de consultas,Si,,,5

@@ -1,0 +1,10 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+municipio,Numérico entero,NN,,Municipio de registro,Si,,,
+fecha_matrimonio,Fecha,dd/mm/AAAA,,Fecha en la que los divorciados contrageron matrimonio,Si,,,
+año_registro,Numérico entero,NNNN,,Año de registro del divorcio,Si,,,
+mes_registro,Numérico entero,NN,,Mes de registro del divorcio,Si,,,
+dia_registro,Numérico entero,NN,,Dia de registro del divorcio,Si,,,
+edad_div1,Numérico entero,NN,,Edad del divorciado 1,No,,Vacio,
+edad_div2,Numérico entero,NN,,Edad del divorciado 2,No,,Vacio,
+sexo_div1,Caracter,C,,Sexo del divorciado 1,No,,Vacio,
+sexo_div2,Caracter,C,,Sexo del divorciado 2,No,,Vacio,

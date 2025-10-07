@@ -1,0 +1,9 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligatoriedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+ano,Numérico,Int,AAAA,Año del registro,,,,
+ENCABEZADO,Texto,,"""REPORTE DE LA FAUNA SILVESTRE DE LA TEMPORADA DE CAZA AAAA-AAAA DEL ESTADO DE SONORA""",Indica la temporada a la que corresponde el registro.,,,,
+cespe,Numérico,Int,,Clave numérica de la especie de fauna.,,,,
+ESPECIE,Texto,,,Nombre de la especie de fauna.,,,,
+CINTIAUTO,Numérico,Int,Cantidad de cintillos,Cantidad de cintillos autorizados para caza.,,,,
+CINTIENTREGA,Numérico,Int,Cantidad de cintillos,Cantidad de cintillos entregados para caza.,,,,
+epocainicio,Fecha,DD/MM/AAAA,,Fecha de inicio del periodo.,,,,
+epocafin,Fecha,DD/MM/AAAA,,Fecha de fin de periodo.,,,,

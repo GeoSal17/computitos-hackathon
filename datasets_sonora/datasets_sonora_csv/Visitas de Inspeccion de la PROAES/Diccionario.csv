@@ -1,0 +1,5 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+FECHA,Fecha,dd-mmm-aa,,Fecha de la inspeccion,Si,,,8-Jul-21
+ACTIVIDAD,Texto,,,Actividad que se realiza en el lugar,Si,,,HOSPITAL VETERINARIO
+MOTIVO,Texto,,,Motivo de la inspeccion,Si,,,PROGRAMA ANUAL DE INSPECCION Y VIGILANCIA
+MUNICIPIO,Texto,,,Nombre del municipio,Si,,,HERMOSILLO

@@ -1,0 +1,12 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+No,numero,,,Identificador de la respuesta,,,,
+Marca temporal,numero decimal,,,Fecha y hora de la respuesta,,,,
+Unidad Deportiva:,texto,,,Unidad deportiva a la que acude el encuestado,,,,Unidad Deportiva Hermosillo (Héctor Espino)
+Razón de su visita:,texto,,,Razon por la que visita la unidad el encuestado,,,,Activación física
+Evento o torneo en el que participa:,texto,,,Evento en el que participa el encuestado,,,,Entrenamientos
+Edad:,numero,,,Edad del encuestado,,,,
+Género:,texto,,,Genero del encuestado,,,,Femenino
+Nivel Escolar:,texto,,,Nivel escolar del encuestado,,,,Preescolar
+Deporte o actividad de práctica:,texto,,,Deporte o actividad que practica en la unidad deportiva el encuestado,,,,Basquetbol
+Colonia de residencia:,texto,,,Colonia de provenencia del encuestado,,,,Santa Lucía
+Ciudad de residencia:,texto,,,Ciudad de provenencia del encuestado,,,,Hermosillo

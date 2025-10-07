@@ -1,0 +1,16 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+CLUES,Alfanumerico,CCCCCnnnnnn,,Clave de la Unidad,Si,,,SRSSA000055
+Nombre_Establecimiento,Texto,,,Nombre del establecimiento,Si,,,HOSPITAL COMUNITARIO ALAMOS
+JS_Cve,Numerico entero,nn,,Clave de Jurisdiccion,Si,,,05
+JS_Nombre,Texto,,,Nombre de Jurisdiccion,Si,,,NAVOJOA
+Mun_Clave,Numerico entero,nnn,,Clave del Municipio,Si,,,003
+Mun_Nombre,Texto,,,Nombre del Municipio,Si,,,ALAMOS
+Loc_Clave,Numerico entero,nnnn,,Clave de la Localidad,Si,,,0001
+Loc_Nombre,Texto,,,Nombre de la Localidad,Si,,,ALAMOS
+Sexo,Texto,,,Sexo,Si,,,Hombre
+Edad,Categorico,"[<1,1,2-4,5-9,10-14,15-19,20-29,30-49,50-59,60 y mas,  NE]",,Grupo de edad,Si,,,< 1
+Mes,Numerico entero,nn,,Mes,Si,,,1
+CIE10_Cve,Alfanumerico,CnnX,,Clave CIE,Si,,,J029
+CIE10_Descrip,Texto,,,Descripcion de diagnostico ,Si,,,"FARINGITIS AGUDA, NO ESPECIFICADA"
+Año,Numerico entero,nnnn,,Año,Si,,,2019
+Total_Urgencias,Numerico entero,,,Total de urgencias atendidas,Si,,,1

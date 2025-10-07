@@ -1,0 +1,22 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+#,Numerico entero,,,Numero de la entrada,Si,,,5
+GÉNERO,Texto,,,Genero de la persona,No,,Vacio,FEMENINO
+ANTIGÜEDAD,Numerico flotante,,años,Antiguedad de la persona,Si,,,0.5
+INSTALACIONES,Numerico entero,,,Calificacion sobre encuesta de Instalaciones,Si,,,10
+MOBILIARIO,Numerico entero,,,Calificacion sobre encuesta de Mobiliario,Si,,,10
+EQUIPO,Numerico entero,,,Calificacion sobre encuesta de Equipo,Si,,,9
+CÓMPUTO,Numerico entero,,,Calificacion sobre encuesta de Computo,Si,,,10
+SUMINISTRO,Numerico entero,,,Calificacion sobre encuesta de Suministro,Si,,,8
+CAPACITACIÓN,Numerico entero,,,Capacitacion sobre encuesta de Capacitacion,Si,,,1
+MODALIDAD LÍNEA,Numerico entero,,,Calificacion sobre encuesta de Modalidad en Linea,Si,,,1
+COMUNICACIÓN,Numerico entero,,,Calificacion sobre encuesta de Comunicacion,Si,,,8
+INSTRUCCIONES,Numerico entero,,,Calificacion sobre encuesta de Instrucciones,Si,,,7
+LIDERAZGO,Numerico entero,,,Calificacion sobre encuesta de Liderazgo,Si,,,8
+CARGA TRABAJO,Texto,,,Mencion sobre el tipo de carga que menciona el encuestado,Si,,,EXCESIVA
+MOTIVO,Texto,,,,No,,,FALTA PERSONAL
+DETALLE OTRA,Texto,,,Otros detalles,No,,Vacio,
+CAPACIDADES,Categorico Binario,"{Sí,NO}",,Resultado sobre encuesta de capacidades,No,,Vacio,SÍ
+ACCIONES MEJORA,Categorico Binario,"{Sí,NO}",,Resultado sobre encuesta de acciones de mejora,No,,Vacio,SÍ
+ÉTICA,Categorico Binario,"{Sí,NO}",,Resultado sobre encuesta de Etica,No,,Vacio,SÍ
+ASPECTO AFECTA,Texto,,,Aspectos en los que el encuestado ve que afectan,No,,EN BLANCO,Falta de personal para atender a más usuarios y disminuir tiempo de espera
+SUGERENCIA,Texto,,,Sugerencias del encuestado,No,,EN BLANCO,EN BLANCO

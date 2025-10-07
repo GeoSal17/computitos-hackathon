@@ -1,0 +1,33 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+No,Numérico entero,,,Numero de la entrada,Si,,,3
+Municipio:,Texto,,,Nombre del municipio donde recide el beneficiado,Si,,,CAJEME
+Localidad:,Texto,,,Nombre de la Localidad donde recide el beneficiado,Si,,,CIUDAD OBREGON
+Colonia:,Texto,,,Colonia donde recide el beneficiado,Si,,,AMPLIACION RODEO
+Estado de Nacimiento:,Texto,,,Estado donde nacio el beneficiado,Si,,,OBREGON
+Sexo,Texto,,,Sexo del beneficiado,Si,,,MUJER
+Edad,Numérico entero,,,Edad del beneficiado,Si,,,49
+Escolaridad:,Texto,,,Nivel de escolaridad del beneficiado,Si,,,Primaria
+Estado Civil:,Texto,,,Estado Civil del beneficiado,Si,,,Unión libre
+Servicio Médico:,Texto,,,Institucion en donde cuenta con servicios medicos,Si,,,Ninguno
+Discapacidad Limitación:,Texto,,,Indicador de discapacidad del beneficiado,Si,,,Ninguna
+Enfermedades:,Texto,,,Enfermedades con las que cuenta el beneficiado,Si,,,Ninguna
+Grupo Indígena:,Texto,,,Grupo indigena al que pertenece el beneficiado,Si,,,Ninguna
+Hablante:,Texto,,,Idiomas que habla el beneficiado,Si,,,Español
+Ocupacion:,Texto,,,Puesto u ocupacion del beneficiado,Si,,,Emplead@
+Dependientes,Numérico entero,,,Numero de personas que dependen del beneficiado,Si,,,2
+"Tenencia 
+del hogar:",Texto,,,Tipo de tenencia que posee el beneficiado,Si,,,Propia y totalmente pagada
+Agua,Texto,,,Tipo de servicio de Agua que posee el beneficiado,Si,,,Suministro por pipas
+Electricidad,Texto,,,Tipo de servicio de Electricidad que posee el beneficiado,Si,,,No tiene
+Drenaje,Texto,,,Tipo de servicio de Drenaje que posee el beneficiado,Si,,,Fosa séptica
+Techo,Texto,,,Tipo de servicio de Techo que posee el beneficiado,Si,,,Lámina metálica
+Paredes,Texto,,,Tipo de  Paredes que posee el beneficiado,Si,,,"Material de deshecho (cartón, hule, llantas, etc.)"
+Sanitario,Texto,,,Tipo de servicio de Sanitario que posee el beneficiado,Si,,,Fosa séptica o letrina
+Baño,Texto,,,Tipo de servicio de Baño que posee el beneficiado,Si,,,No tiene
+Piso,Texto,,,Tipo de Piso que posee el beneficiado,Si,,,Tierra
+Condición,Texto,,,Condicion de la vivienda del beneficiado,Si,,,Inconclusa
+"Area
+de cocina",Texto,,,Posee area de cocina,Si,,,SI
+Uso comun,Texto,,,Posee area de uso comun,Si,,,NO
+Vivienda,Numérico entero,,,Numero de cuartos en la vivienda,Si,,,1
+Dormir,Numérico entero,,,Numero de dormitorios en la vivienda,Si,,,1

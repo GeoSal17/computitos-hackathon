@@ -1,0 +1,5 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+FECHA,Fecha,dd-mmm-aa,,Fecha de la Inspeccion,Si,,,15-Feb-22
+ACTIVIDAD,Texto,,,Actividad que ejecuta donde se inspecciona o se vigila,Si,,,TORTILLERIA
+MOTIVO,Texto,,,Motivo de la inspeccion o vigilancia,Si,,,SEG. A DENUNCIA
+MUNICIPIO,Texto,,,Municipio de registro,Si,,,HERMOSILLO

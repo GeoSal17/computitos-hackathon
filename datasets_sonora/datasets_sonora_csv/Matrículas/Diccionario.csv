@@ -1,0 +1,10 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+Programa academico,Texto,,,Nombre sobre el programa academico que cursa el alumno,Si,,,Arquitectura
+Semestre que cursa,Numérico entero,n,,Semestre en el hasta el cual persiven los datos del alumno,Si,,,9
+Sexo,Caracter,"{M,F}",,Sexo registrado del alumno,Si,,,M
+Promedio Actual,Numérico flotante,,,Promedio actual del alumno,Si,,,7.9
+Promedio General,Numérico flotante,,,Promedio general del alumno,Si,,,7.8
+Créditos Acumulados,Numérico entero,,,Creditos totales del alumno,Si,,,240
+Inscrito en Residencias,Caracter,"{S,N}",,Indicador sobre si el alumno esta inscrito en residencias,Si,,,N
+Seguro Escolar,Caracter,"{S,N}",,Indicador sobre si el alumno cuenta con seguro escolar,Si,,,N
+Discapacidad,Caracter,"{S,N}",,Indicador de discapacidad,Si,,,N

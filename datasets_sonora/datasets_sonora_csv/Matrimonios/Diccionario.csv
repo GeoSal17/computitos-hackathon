@@ -1,0 +1,9 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+municipio,Numérico entero,NN,,Municipio de registro,Si,,,
+edad_cty1,Numérico entero,NN,,Edad del contrayente 1,No,,Vacio,
+edad_cty2,Numérico entero,NN,,Edad del contrayente 2,No,,Vacio,
+sexo_cty1,Texto,C,,Sexo del contrayente 1,No,,Vacio,
+sexo_cty2,Texto,C,,Sexo del contrayente 2,No,,Vacio,
+año_matrimonio,Numérico entero,NNNN,,Año de registro,Si,,,
+mes_matrimonio,Numérico entero,NN,,Mes de registro,Si,,,
+dia_matrimonio,Numérico entero,NN,,Dia de registro,Si,,,

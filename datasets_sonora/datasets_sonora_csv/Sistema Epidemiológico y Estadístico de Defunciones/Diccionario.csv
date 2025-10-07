@@ -1,0 +1,81 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+FECHANACIMIENTO,Fecha,,,Fecha de nacimiento del difunto,,,,9/26/1956
+SEXO,Numerico Entero Binario,,,Identificador del sexo del difunto,,,,1
+SEXOD,Texto,,,Sexo del difunto,,,,HOMBRE
+ENTIDADNACIMIENTO,Numerico entero,,,Identificador de entidad de nacimiento del difunto,,,,14
+ENTIDADNACIMIENTOD,Texto,,,Entidad de nacimiento del difunto,,,,JALISCO
+SE_RECONOCIA_AFROMEXICANO,Numerico entero,,,Identificador por si se reconoce como afroamericano,,,,8
+SE_RECONOCIA_AFROMEXICANOD,Texto,,,Identificador textual por si se reconoce como afroamericano,,,,NO APLICA
+SE_CONSIDERA_INDIGENA,Numerico entero,,,Identificador por si se considera Indigena,,,,8
+SE_CONSIDERA_INDIGENAD,Texto,,,Identificador textual por si se identifica Indigena,,,,NO APLICA
+HABLALENGUAINDIGENA,Numerico entero,,,Identificador de si habla Indigena,,,,2
+HABLALENGUAINDIGENAD,Texto,,,Identificador textual de si habla Indigena,,,,NO
+NACIONALIDAD,Numerico entero,,,Identificador de nacionalidad del difunto,,,,1
+NACIONALIDADD,Texto,,,Nombre de la nacionalidad del difunto,,,,MEXICANA
+EDAD,Numerico entero,,,Edad del difunto,,,,65
+CLAVEEDAD,Numerico entero,,,Clave de edad,,,,5
+CLAVEEDADD,Texto,,,Unidad de edad,,,,AÑOS
+EDADGESTACIONAL,Numerico entero,,,Pendiente de especificar,,,,
+PESO,Numerico entero,,,Peso del difunto,,,,
+ESTADOCONYUGAL,Numerico entero,,,Identificador de estado conyugal del difunto,,,,5
+ESTADOCONYUGALD,Texto,,,Identificador textual de estado conyugal del difunto,,,,CASADO(A)
+RESIDEEXTRANJERO,Texto,,,Identificador de si es extrangero,,,,NO
+ENTIDADRESIDENCIA,Numerico entero,,,Clave de Entidad donde recidia el difunto,,,,26
+ENTIDADRESIDENCIAD,texto,,,Nombre de la entidad donde recidia el difunto,,,,SONORA
+MUNICIPIORESIDENCIA,Numerico entero,,,Clave del Municipio donde recidia el difunto,,,,55
+MUNICIPIORESIDENCIAD,Texto,,,Nombre del Municipio donde recidia el difunto,,,,SAN LUIS RÍO COLORADO
+LOCALIDADRESIDENCIA,Numerico entero,,,Clave de la localidad donde recidia el difunto,,,,1
+LOCALIDADRESIDENCIAD,Texto,,,Nombre de la localidad donde recidia el difunto,,,,SAN LUIS RIO COLORADO
+ESCOLARIDAD,Numerico entero,,,Identificador de nivel escolar del difunto,,,,31
+ESCOLARIDADD,Texto,,,Nivel escolar del difunto,,,,PRIMARIA COMPLETA
+CLAVEOCUPACIONHABITUAL,Numerico entero,,,Pendiente de especificar,,,,4
+CLAVEOCUPACIONHABITUALD,Texto,,,Pendiente de especificar,,,,"NO OCUPADO, JUBILADO O PENSIONADO"
+TRABAJAACTUALMENTE,Numerico entero,,,Pendiente de especificar,,,,2
+TRABAJAACTUALMENTED,Texto,,,Pendiente de especificar,,,,NO
+AFILIACION,Numerico entero,,,Pendiente de especificar,,,,2
+AFILIACIOND,Texto,,,Pendiente de especificar,,,,IMSS
+SITIODEFUNCION,Numerico entero,,,Pendiente de especificar,,,,3
+SITIODEFUNCIOND,Texto,,,Pendiente de especificar,,,,IMSS
+CLUES,Alfanumerico,,,Pendiente de especificar,,,,SRIMS000915
+ENTIDADDEFUNCION,Numerico entero,,,Clave de Entidad donde ocurrio la defunción,,,,26
+ENTIDADDEFUNCIOND,Texto,,,Nombre de la entidad donde ocurrio la defunción,,,,SONORA
+MUNICIPIODEFUNCION,Numerico entero,,,Clave del Municipio donde ocurrio la defunción,,,,55
+MUNICIPIODEFUNCIOND,Texto,,,Nombre del Municipio donde ocurrio la defunción,,,,SAN LUIS RÍO COLORADO
+LOCALIDADDEFUNCION,Numerico entero,,,Clave de la localidad donde ocurrio la defunción,,,,1
+LOCALIDADDEFUNCIOND,Texto,,,Nombre de la localidad donde ocurrio la defunción,,,,SAN LUIS RIO COLORADO
+JURISDICCIONDEFUNCION,Numerico entero,,,Clave de la Jurisdicción donde ocurrió la defunción,,,,6
+JURISDICCIONDEFUNCIOND,Texto,,,Nombre de la Jurisdicción donde ocurrió la defunción,,,,SAN LUIS RIO COLORADO
+FECHADEFUNCION,Fecha,,,Fecha de la defuncion,,,,1/6/2022
+HORADEFUNCION,Hora,,,Hora de la defuncion,,,,01:30
+ATENCIONMEDICA,Numerico entero,,,Identificador de si recivio atencion medica,,,,1
+ATENCIONMEDICAD,Texto,,,Identificador textual de si recivió atencion medica ,,,,SI
+REALIZO_CIRUGIA,Numerico entero,,,Identificador de si se le realizo cirugia,,,,8
+REALIZO_CIRUGIAD,Texto,,,Identificador textual de si se le realizo cirugia,,,,NO APLICA
+MUERTEACCIDENTALVIOLENTA,Numerico entero,,,Pendiente de especificar,,,,2
+MUERTEACCIDENTALVIOLENTAD,Texto,,,Pendiente de especificar,,,,NO
+INTENCIONEVENTO,Numerico entero,,,Pendiente de especificar,,,,8
+INTENCIONEVENTOD,Texto,,,Pendiente de especificar,,,,NO APLICA
+CIECAUSABASICA,Alfanumerico,,,Pendiente de especificar,,,,U071
+CIECAUSABASICAD,Texto,,,Pendiente de especificar,,,,"COVID-19, VIRUS IDENTIFICADO"
+PRACTICONECROPSIA,Numerico entero,,,Identificador de si se practico autopsia,,,,2
+PRACTICONECROPSIAD,Texto,,,Identificador textual de si se practico autopsia,,,,NO
+OCURRIODURANTEEMBARAZO,Numerico entero,,,Identificador de si la defuncion ocurrio durante el embarazo,,,,8
+OCURRIODURANTEEMBARAZOD,Texto,,,Identificador textual de si la defuncion ocurrio durante el embarazo,,,,NO APLICA
+CAUSAPROPIAEMBARAZO,Numerico entero,,,Pendiente de especificar,,,,8
+CAUSAPROPIAEMBARAZOD,Texto,,,Pendiente de especificar,,,,NO APLICA
+OCURRIOENTRABAJO,Numerico entero,,,Identificador de si la defuncion ocurrio en el trabajo,,,,8
+OCURRIOENTRABAJOD,Texto,,,Identificador textual de si la defuncion ocurrio en el trabajo,,,,NO APLICA
+SITIOOCURRENCIALESION,Numerico entero,,,Pendiente de especificar,,,,88
+SITIOOCURRENCIALESIOND,Texto,,,Pendiente de especificar,,,,NO APLICA
+PARENTESCOAGRESORD,Texto,,,Pendiente de especificar,,,,NO APLICA
+ENTIDADOCURRENCIA,Numerico entero,,,Pendiente de especificar,,,,88
+ENTIDADOCURRENCIAD,Texto,,,Pendiente de especificar,,,,NO APLICA
+MUNICIPIOOCURRENCIA,Numerico entero,,,Pendiente de especificar,,,,997
+MUNICIPIOOCURRENCIAD,Texto,,,Pendiente de especificar,,,,NO APLICA
+LOCALIDADOCURRENCIA,Numerico entero,,,Pendiente de especificar,,,,9997
+LOCALIDADOCURRENCIAD,Texto,,,Pendiente de especificar,,,,NO APLICA
+CERTIFICADOPOR,Numerico entero,,,Pendiente de especificar,,,,3
+CERTIFICADOPORD,Texto,,,Pendiente de especificar,,,,OTRO MÉDICO
+FECHACERTIFICACION,Fecha,,,Pendiente de especificar,,,,1/6/2022 0:00
+JURISDICCION_CLUES,Numerico entero,,,Pendiente de especificar,,,,6
+JURISDICCION_CLUESD,Texto,,,Pendiente de especificar,,,,SAN LUIS RIO COLORADO

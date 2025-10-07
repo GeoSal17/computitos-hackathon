@@ -1,0 +1,21 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligatoriedad,Catálogo de referencia,Identificador de valores nulos,Ejemplo de dato
+dependencia,Texto,,,Nombre de la dependencia que capturó,Si,,,SECRETARIA DE ECONOMIA
+partida,Numérico entero,nnnnn,,Clave de la partida presupuestal,Si,,,14404
+codigo material,Numérico entero,nnnnnnnn,,Codigo del material,Si,,,14440001
+descripcion del material,Texto,,,Descripción del  material,Si,,,SEGUROS LABORAL COSTO UNITARIO POR SERVICIO
+cantidad,Numérico entero,,,Cantidad registrada,Si,,,1
+costo unitario,Numérico flotante,,Pesos Mexicanos,Costo unitario,Si,,,436211.34
+iva,Porcentual,,,Impuesto del valor agregado,Si,,,0%
+origen del recurso,Texto,,,Origen del recurso,Si,,,RECURSOS ESTATALES
+enero,Numérico flotante,,Pesos Mexicanos,Monto registrado en enero,Si,,,0
+febrero,Numérico flotante,,Pesos Mexicanos,Monto registrado en febrero,Si,,,0
+marzo,Numérico flotante,,Pesos Mexicanos,Monto registrado en marzo,Si,,,0
+abril,Numérico flotante,,Pesos Mexicanos,Monto registrado en abril,Si,,,0
+mayo,Numérico flotante,,Pesos Mexicanos,Monto registrado en mayo,Si,,,0
+junio,Numérico flotante,,Pesos Mexicanos,Monto registrado en junio,Si,,,0
+julio,Numérico flotante,,Pesos Mexicanos,Monto registrado en julio,Si,,,0
+agosto,Numérico flotante,,Pesos Mexicanos,Monto registrado en agosto,Si,,,0
+septiembre,Numérico flotante,,Pesos Mexicanos,Monto registrado en septiembre,Si,,,0
+octubre,Numérico flotante,,Pesos Mexicanos,Monto registrado en octubre,Si,,,145403.76
+noviembre,Numérico flotante,,Pesos Mexicanos,Monto registrado en noviembre,Si,,,145403.77
+diciembre,Numérico flotante,,Pesos Mexicanos,Monto registrado en diciembre,Si,,,145403.81

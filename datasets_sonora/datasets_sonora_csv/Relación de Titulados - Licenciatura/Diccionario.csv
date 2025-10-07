@@ -1,0 +1,10 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+No.,Numérico entero,,,Numero de la entrada,Si,,,3
+Fecha de nacimiento,Fecha,dd/mm/AAAA,,Fecha de nacimiento del titulado,Si,,,12/05/1982
+Sexo,Caracter,"{M,F}",,Sexo del titulado,Si,,,M
+Programa Educativo,Texto,cccc,,Clave del programa Educativo,Si,,,MPIA
+Fecha de ingreso,Fecha,dd/mm/AAAA,,Fecha en la que el titulado ingreso a la institucion,Si,,,08/08/2018
+Fecha de egreso,Fecha,dd/mm/AAAA,,Fecha en la que el titulado egreso de la institucion,Si,,,12/12/2020
+Fecha de Titulación,Fecha,dd/mm/AAAA,,Fecha en la que el titulado se tituló,Si,,,03/02/2021
+,,,,,,,,
+,,,,,,,,

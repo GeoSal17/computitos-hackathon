@@ -1,0 +1,7 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+Programa Educativo,Texto,,,Nombre del programa educativo,Si,,,Lic. En Nutrición Humana
+San Luis R.C.,Numerico entero,,,Número de estudiantes que reingresaron en San Luis R.C.,No,,Vacio,174
+Hermosillo,Numerico entero,,,Número de estudiantes que reingresaron en Hermosillo,No,,Vacio,581
+Navojoa,Numerico entero,,,Número de estudiantes que reingresaron en Navojoa,No,,Vacio,216
+Magdalena,Numerico entero,,,Número de estudiantes que reingresaron en Magdalena,No,,Vacio,54
+Benito Juárez,Numerico entero,,,Número de estudiantes que reingresaron en Benito Juárez,No,,Vacio,60

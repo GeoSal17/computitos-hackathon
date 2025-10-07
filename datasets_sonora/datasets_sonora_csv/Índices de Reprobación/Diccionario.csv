@@ -1,0 +1,13 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+PROGRAMA EDUCATIVO,texto,,,Programa educativo evaluado,,,,INGENIERIA INDUSTRIAL
+MATERIA,texto,,,Materia evaluada,,,,CALCULO INTEGRAL
+GRUPO,texto,,,Grupo evaluado,,,,
+TOTAL DE ALUMNOS,numero,,,Total de alumnos evaluado,,,,
+4TA SEMANA INDICE DE REPROBACION,numero decimal,,,Resultado de la evaluación en el periodo,,,,
+8VA SEMANA INDICE DE REPROBACION,numero decimal,,,Resultado de la evaluación en el periodo,,,,
+12VA SEMANA INDICE DE REPROBACION,numero decimal,,,Resultado de la evaluación en el periodo,,,,
+16VA SEMANA INDICE DE REPROBACION,numero decimal,,,Resultado de la evaluación en el periodo,,,,
+4TA SEMANA PROMEDIO DE MATERIA,numero decimal,,,Resultado de la evaluación en el periodo,,,,
+8VA SEMANA PROMEDIO DE MATERIA,numero decimal,,,Resultado de la evaluación en el periodo,,,,
+12VA SEMANA PROMEDIO DE MATERIA,numero decimal,,,Resultado de la evaluación en el periodo,,,,
+16VA SEMANA PROMEDIO DE MATERIA,numero decimal,,,Resultado de la evaluación en el periodo,,,,

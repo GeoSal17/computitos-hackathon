@@ -1,0 +1,21 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+Folio,texto,,,Folio del tramite,,,,SON-CCLES-95-0583-ACF
+Estatus,texto,,,Estatus del tramite,,,,Publicado
+Nombre del trámite o servicio,texto,,,Nombre del trámite o servicio ,,,,"Pláticas informativas orientadas a la promoción de valores en favor de la donación de órganos, tejidos y células con fines de trasplante."
+Nombre ciudadano,texto,,,Nombre del tramite para visibilidad del ciudadano,,,,Autenticidad de firmas
+Dependencia / entidad,texto,,,Dependencia en donde se realiza el tramite,,,,Centro Regional de Formación Profesional Docente de Sonora
+Unidad Administrativa,texto,,,Unidad del Administrativa que realiza el tramite,,,,Dirección de Servicios Escolares
+Sector,texto,,,Sector que realiza el tramite,,,,Educación 
+"Trámite o 
+servicio",texto,,,Identificador del nivel del servicio,,,,Trámite
+Tiene carta compromiso ciudadano,texto,,,Validador de la existencia de carta compromiso para el tramite,,,,No
+"Frecuencia
+ mensual",numero,,,Frecuencia mensual en del tramite realizado,,,,
+Gratuito,texto,,,Validador de la Gratuidad o no del tramite,,,,No
+Costo,valores monetarios,,,Costo del tramite,,,,"$1,000.00"
+Vigencia,texto,,,Vigencia del tramite,,,,No
+"Tiempo de
+ respuesta",texto,,,Tiempo de respuesta para el tramite realizado,,,,1 Día(s) Hábiles
+Sin que haya dado respuesta al trámite o servicio indicar si opera algunas de las siguientes figuras*,texto,,,,,,,No aplica
+"Tiene
+ formato",texto,,,Validador de la existencia o no del tramite,,,,No

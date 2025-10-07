@@ -1,0 +1,9 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+municipio,Numérico entero,NN,,Municipio de registro,Si,,,
+fecha_registro,Fecha,dd/mm/AAAA,,Fecha de registro de la defuncion,No,,Vacio,
+hora_defuncion,Hora,HH:MM:SS,,Hora de la defuncion,No,,Vacio,
+sexo,Caracter,C,,Sexo del difunto,No,,Vacio,
+edad,Numérico entero,NN,,Edad al fallecer,No,,Vacio,
+año_defuncion,Numérico entero,NNNN,,Año en el que fallecio,Si,,,
+mes_defuncion,Numérico entero,NN,,Mes en el que fallecio,Si,,,
+dia_defuncion,Numérico entero,NN,,Dia en el que fallecio,Si,,,

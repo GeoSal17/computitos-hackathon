@@ -1,0 +1,7 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+Programa Educativo,Texto,,,Nombre del programa educativo,Si,,,Lic. En Enfermería
+San Luis R.C.,Numerico entero,,,Número de estudiantes de nuevo ingreso en San Luis R.C.,No,,Vacio,72
+Hermosillo,Numerico entero,,,Número de estudiantes de nuevo ingreso en Hermosillo,No,,Vacio,103
+Navojoa,Numerico entero,,,Número de estudiantes de nuevo ingreso en Navojoa,No,,Vacio,103
+Magdalena,Numerico entero,,,Número de estudiantes de nuevo ingreso en Magdalena,No,,Vacio,71
+Benito Juárez,Numerico entero,,,Número de estudiantes de nuevo ingreso en Benito Juárez,No,,Vacio,107

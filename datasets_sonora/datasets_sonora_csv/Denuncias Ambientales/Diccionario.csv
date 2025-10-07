@@ -1,0 +1,10 @@
+Nombre variable,Tipo de dato,Formato,Unidad de medida,Descripción,Indicación de obligarotiedad,Catálogo de referencia,Identificador de valures nulos,Ejemplo de dato
+No_D,Numerico entero,,,Numero de la entrada,Si,,,6
+TRIMESTRE,Numerico entero,,,Trimestre del estrato,Si,,,1
+MEDIO DE RECEPCION,Texto,,,Medio por el cual se tomo la denuncia,Si,,,TELEFONICA
+FECHA RECEPCION,Fecha,mm/dd/AAAA,,Fecha de la denuncia,Si,,,1/14/2022
+ASUNTO,Texto,,,Asunto general de la denuncia,Si,,,DENUNCIA
+HECHOS,Texto,,,Hechos descritos en la denuncia,Si,,,"CRIADERO DE MAS DE 30 ANIMALES DE GRANJA DE DIFERENTE TIPO, QUE GENERAN MUY MAL OLOR Y PRLIFERACION DE BICHOS"
+GIRO,Texto,,,Giro de la denuncia,Si,,,CRIADERO DE ANIMALES DE GRANJA
+MUNICIPIO,Texto,,,Municipio donde se reporto la denuncia,Si,,,HERMOSILLO
+MATERIA DE LA DENUNCIA,Texto,,,Materia de la denuncia,Si,,,ANIMAL
